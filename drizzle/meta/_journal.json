@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787569485174,
+      "tag": "0000_rare_purple_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1787660671274,
+      "tag": "0001_even_white_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787794205207,
+      "tag": "0002_powerful_amphibian",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1787809997785,
+      "tag": "0003_little_cammi",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1787876728088,
+      "tag": "0004_powerful_mandarin",
+      "breakpoints": true
+    }
+  ]
+}

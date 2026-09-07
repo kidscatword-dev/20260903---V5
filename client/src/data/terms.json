@@ -1,0 +1,6962 @@
+[
+  {
+    "term": "蘋果",
+    "jyutping": "ping4gwo2",
+    "pinyin": "pín guǒ",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "香蕉",
+    "jyutping": "hoeng1ziu1",
+    "pinyin": "xiāng jiāo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "橙",
+    "jyutping": "caang2",
+    "pinyin": "chéng",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "西瓜",
+    "jyutping": "sai1gwaa1",
+    "pinyin": "xī guā",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "葡萄",
+    "jyutping": "pou4tou4",
+    "pinyin": "pú táo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "草莓",
+    "jyutping": "cou2mui2",
+    "pinyin": "cǎo méi",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "菠蘿",
+    "jyutping": "bo1lo4",
+    "pinyin": "bō luó",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "梨",
+    "jyutping": "lei4",
+    "pinyin": "lí",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "桃",
+    "jyutping": "tou4",
+    "pinyin": "táo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "牛奶",
+    "jyutping": "ngau4naai5",
+    "pinyin": "niú nǎi",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "水",
+    "jyutping": "seoi2",
+    "pinyin": "shuǐ",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "飯",
+    "jyutping": "faan6",
+    "pinyin": "fàn",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "粥",
+    "jyutping": "zuk1",
+    "pinyin": "zhōu",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "湯",
+    "jyutping": "tong1",
+    "pinyin": "tāng",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "麵包",
+    "jyutping": "min6baau1",
+    "pinyin": "miàn bāo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "雞蛋",
+    "jyutping": "gai1daan2",
+    "pinyin": "jī dàn",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "魚",
+    "jyutping": "jyu2",
+    "pinyin": "yú",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "菜",
+    "jyutping": "coi3",
+    "pinyin": "cài",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "肉",
+    "jyutping": "juk6",
+    "pinyin": "ròu",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "糖",
+    "jyutping": "tong4",
+    "pinyin": "táng",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "餅乾",
+    "jyutping": "beng2gon1",
+    "pinyin": "bǐng qián",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "冰淇淋",
+    "jyutping": "bing1 kei4 lam4",
+    "pinyin": "bīng qí lín",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "巧克力",
+    "jyutping": "zyu1 gu1 lik1",
+    "pinyin": "qiǎo kè lì",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "果汁",
+    "jyutping": "gwo2zap1",
+    "pinyin": "guǒ zhī",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "豆漿",
+    "jyutping": "dau6zoeng1",
+    "pinyin": "dòu jiāng",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "芝士",
+    "jyutping": "zi1si2",
+    "pinyin": "zhī shì",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "薯條",
+    "jyutping": "syu4tiu2",
+    "pinyin": "shǔ tiáo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "番茄",
+    "jyutping": "faan1ke2",
+    "pinyin": "fān qié",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "玉米",
+    "jyutping": "juk6 mai5",
+    "pinyin": "yù mǐ",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蛋糕",
+    "jyutping": "daan6gou1",
+    "pinyin": "dàn gāo",
+    "level": "preschool",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "開心",
+    "jyutping": "hoi1sam1",
+    "pinyin": "kāi xīn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "高興",
+    "jyutping": "gou1hing3",
+    "pinyin": "gāo xīng",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "快樂",
+    "jyutping": "faai3lok6",
+    "pinyin": "kuài lè",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "傷心",
+    "jyutping": "soeng1sam1",
+    "pinyin": "shāng xīn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "難過",
+    "jyutping": "naan4gwo3",
+    "pinyin": "nán guò",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "生氣",
+    "jyutping": "saang1hei3",
+    "pinyin": "shēng qì",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "害怕",
+    "jyutping": "hoi6paa3",
+    "pinyin": "hài pà",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "驚喜",
+    "jyutping": "ging1hei2",
+    "pinyin": "jīng xǐ",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "緊張",
+    "jyutping": "gan2zoeng1",
+    "pinyin": "jǐn zhāng",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "放心",
+    "jyutping": "fong3sam1",
+    "pinyin": "fàng xīn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "想念",
+    "jyutping": "soeng2nim6",
+    "pinyin": "xiǎng niàn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "喜歡",
+    "jyutping": "hei2fun1",
+    "pinyin": "xǐ huān",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "討厭",
+    "jyutping": "tou2jim3",
+    "pinyin": "tǎo yàn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "愛",
+    "jyutping": "oi3",
+    "pinyin": "ài",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "哭",
+    "jyutping": "huk1",
+    "pinyin": "kū",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "笑",
+    "jyutping": "siu3",
+    "pinyin": "xiào",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "友善",
+    "jyutping": "jau5sin6",
+    "pinyin": "yǒu shàn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "勇敢",
+    "jyutping": "jung5gam2",
+    "pinyin": "yǒng gǎn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "安心",
+    "jyutping": "on1sam1",
+    "pinyin": "ān xīn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "擔心",
+    "jyutping": "daam1sam1",
+    "pinyin": "dān xīn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "生悶氣",
+    "jyutping": "sang1 mun6 hei3",
+    "pinyin": "shēng mèn qì",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "興奮",
+    "jyutping": "hing1fan5",
+    "pinyin": "xīng fèn",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "驚訝",
+    "jyutping": "ging1ngaa6",
+    "pinyin": "jīng yà",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "羞羞",
+    "jyutping": "sau1 sau1",
+    "pinyin": "xiū xiū",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "害羞",
+    "jyutping": "hoi6 sau1",
+    "pinyin": "hài xiū",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "滿足",
+    "jyutping": "mun5zuk1",
+    "pinyin": "mǎn zú",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "舒服",
+    "jyutping": "syu1 fuk6",
+    "pinyin": "shū fu",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "飢餓",
+    "jyutping": "gei1 ngo6",
+    "pinyin": "jī è",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "口渴",
+    "jyutping": "hau2hot3",
+    "pinyin": "kǒu kě",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "累",
+    "jyutping": "leoi6",
+    "pinyin": "lèi",
+    "level": "preschool",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "小狗",
+    "jyutping": "siu2gau2",
+    "pinyin": "xiǎo gǒu",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "小貓",
+    "jyutping": "siu2maau1",
+    "pinyin": "xiǎo māo",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "兔子",
+    "jyutping": "tou3 zi2",
+    "pinyin": "tù zi",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "金魚",
+    "jyutping": "gam1jyu2",
+    "pinyin": "jīn yú",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "烏龜",
+    "jyutping": "wu1gwai1",
+    "pinyin": "wū guī",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "獅子",
+    "jyutping": "si1zi2",
+    "pinyin": "shī zǐ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "老虎",
+    "jyutping": "lou5fu2",
+    "pinyin": "lǎo hǔ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "大象",
+    "jyutping": "daai6zoeng6",
+    "pinyin": "dà xiàng",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "熊貓",
+    "jyutping": "hung4maau1",
+    "pinyin": "xióng māo",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "猴子",
+    "jyutping": "hau4zi2",
+    "pinyin": "hóu zi",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "雞",
+    "jyutping": "gai1",
+    "pinyin": "jī",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鴨",
+    "jyutping": "aap3",
+    "pinyin": "yā",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "豬",
+    "jyutping": "zyu1",
+    "pinyin": "zhū",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "牛",
+    "jyutping": "ngau4",
+    "pinyin": "niú",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "羊",
+    "jyutping": "joeng4",
+    "pinyin": "yáng",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "馬",
+    "jyutping": "maa5",
+    "pinyin": "mǎ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "小鳥",
+    "jyutping": "siu2niu5",
+    "pinyin": "xiǎo niǎo",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蝴蝶",
+    "jyutping": "wu4dip6",
+    "pinyin": "hú dié",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蜜蜂",
+    "jyutping": "mat6fung1",
+    "pinyin": "mì fēng",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "青蛙",
+    "jyutping": "cing1waa1",
+    "pinyin": "qīng wā",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蛇",
+    "jyutping": "se4",
+    "pinyin": "shé",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "小魚",
+    "jyutping": "siu2 jyu4",
+    "pinyin": "xiǎo yú",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海豚",
+    "jyutping": "hoi2tyun4",
+    "pinyin": "hǎi tún",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "企鵝",
+    "jyutping": "kei5ngo2",
+    "pinyin": "qǐ é",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "長頸鹿",
+    "jyutping": "coeng4geng2luk2",
+    "pinyin": "cháng jǐng lù",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "斑馬",
+    "jyutping": "baan1maa5",
+    "pinyin": "bān mǎ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "河馬",
+    "jyutping": "ho4maa5",
+    "pinyin": "hé mǎ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "松鼠",
+    "jyutping": "cung4syu2",
+    "pinyin": "sōng shǔ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "袋鼠",
+    "jyutping": "doi6syu2",
+    "pinyin": "dài shǔ",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鯨魚",
+    "jyutping": "king4jyu4",
+    "pinyin": "jīng yú",
+    "level": "preschool",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "紅色",
+    "jyutping": "hung4sik1",
+    "pinyin": "hóng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "橙色",
+    "jyutping": "caang2sik1",
+    "pinyin": "chéng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "黃色",
+    "jyutping": "wong4 sik1",
+    "pinyin": "huáng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "綠色",
+    "jyutping": "luk6sik1",
+    "pinyin": "lǜ sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "藍色",
+    "jyutping": "laam4sik1",
+    "pinyin": "lán sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "紫色",
+    "jyutping": "zi2sik1",
+    "pinyin": "zǐ sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "粉紅色",
+    "jyutping": "fan2 hung4 sik1",
+    "pinyin": "fěn hóng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "白色",
+    "jyutping": "baak6sik1",
+    "pinyin": "bái sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "黑色",
+    "jyutping": "haak1sik1",
+    "pinyin": "hēi sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "灰色",
+    "jyutping": "fui1sik1",
+    "pinyin": "huī sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "啡色",
+    "jyutping": "fe1 sik1",
+    "pinyin": "fēi sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "金色",
+    "jyutping": "gam1sik1",
+    "pinyin": "jīn sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "銀色",
+    "jyutping": "ngan4sik1",
+    "pinyin": "yín sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "彩色",
+    "jyutping": "coi2sik1",
+    "pinyin": "cǎi sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "深色",
+    "jyutping": "sam1sik1",
+    "pinyin": "shēn sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "淺色",
+    "jyutping": "cin2sik1",
+    "pinyin": "qiǎn sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "光亮",
+    "jyutping": "gwong1loeng6",
+    "pinyin": "guāng liàng",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "暗色",
+    "jyutping": "am3 sik1",
+    "pinyin": "àn sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "彩虹色",
+    "jyutping": "coi2 hung4 sik1",
+    "pinyin": "cǎi hóng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "天藍色",
+    "jyutping": "tin1laam4sik1",
+    "pinyin": "tiān lán sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "深藍色",
+    "jyutping": "sam1laam4sik1",
+    "pinyin": "shēn lán sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "淺藍色",
+    "jyutping": "cin2 laam4 sik1",
+    "pinyin": "qiǎn lán sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "深綠色",
+    "jyutping": "sam1 luk6 sik1",
+    "pinyin": "shēn lǜ sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "米白色",
+    "jyutping": "mai5 baak6 sik1",
+    "pinyin": "mǐ bái sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "米色",
+    "jyutping": "mai5sik1",
+    "pinyin": "mǐ sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "桃紅色",
+    "jyutping": "tou4hung4sik1",
+    "pinyin": "táo hóng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "土黃色",
+    "jyutping": "tou2 wong4 sik1",
+    "pinyin": "tǔ huáng sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "奶油色",
+    "jyutping": "naai5 jau4 sik1",
+    "pinyin": "nǎi yóu sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "透明",
+    "jyutping": "tau3ming4",
+    "pinyin": "tòu míng",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "花色",
+    "jyutping": "faa1 sik1",
+    "pinyin": "huā sè",
+    "level": "preschool",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "頭",
+    "jyutping": "tau4",
+    "pinyin": "tóu",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "頭髮",
+    "jyutping": "tau4faat3",
+    "pinyin": "tóu fà",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "眼睛",
+    "jyutping": "ngaan5zing1",
+    "pinyin": "yǎn jīng",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "耳朵",
+    "jyutping": "ji5do2",
+    "pinyin": "ěr duo",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "鼻子",
+    "jyutping": "bei6zi2",
+    "pinyin": "bí zi",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "嘴巴",
+    "jyutping": "zeoi2baa1",
+    "pinyin": "zuǐ ba",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "牙齒",
+    "jyutping": "ngaa4ci2",
+    "pinyin": "yá chǐ",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "舌頭",
+    "jyutping": "sit6tau4",
+    "pinyin": "shé tóu",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "頸",
+    "jyutping": "geng2",
+    "pinyin": "jǐng",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肩膀",
+    "jyutping": "gin1bong2",
+    "pinyin": "jiān bǎng",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手",
+    "jyutping": "sau2",
+    "pinyin": "shǒu",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手指",
+    "jyutping": "sau2zi2",
+    "pinyin": "shǒu zhǐ",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手掌",
+    "jyutping": "sau2zoeng2",
+    "pinyin": "shǒu zhǎng",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手腕",
+    "jyutping": "sau2wun2",
+    "pinyin": "shǒu wàn",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手臂",
+    "jyutping": "sau2bei3",
+    "pinyin": "shǒu bì",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肚子",
+    "jyutping": "tou5zi2",
+    "pinyin": "dù zǐ",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "背部",
+    "jyutping": "bui3bou6",
+    "pinyin": "bèi bù",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腰",
+    "jyutping": "jiu1",
+    "pinyin": "yāo",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腳",
+    "jyutping": "goek3",
+    "pinyin": "jiǎo",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腳趾",
+    "jyutping": "goek3zi2",
+    "pinyin": "jiǎo zhǐ",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "膝蓋",
+    "jyutping": "sat1goi3",
+    "pinyin": "xī gài",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "心",
+    "jyutping": "sam1",
+    "pinyin": "xīn",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "臉",
+    "jyutping": "lim5",
+    "pinyin": "liǎn",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "眉毛",
+    "jyutping": "mei4mou4",
+    "pinyin": "méi máo",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "睫毛",
+    "jyutping": "zit6mou4",
+    "pinyin": "jié máo",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "指甲",
+    "jyutping": "zi2gaap3",
+    "pinyin": "zhǐ jiǎ",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "皮膚",
+    "jyutping": "pei4fu1",
+    "pinyin": "pí fū",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "臉頰",
+    "jyutping": "lim5haap3",
+    "pinyin": "liǎn jiá",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腦袋",
+    "jyutping": "nou5doi2",
+    "pinyin": "nǎo dài",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肺部",
+    "jyutping": "fai3bou6",
+    "pinyin": "fèi bù",
+    "level": "preschool",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "爸爸",
+    "jyutping": "baa4baa1",
+    "pinyin": "bà ba",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "媽媽",
+    "jyutping": "maa4maa1",
+    "pinyin": "mā mā",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "哥哥",
+    "jyutping": "go4go1",
+    "pinyin": "gē ge",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姐姐",
+    "jyutping": "ze4ze1",
+    "pinyin": "jiě jie",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "弟弟",
+    "jyutping": "dai6dai2",
+    "pinyin": "dì di",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "妹妹",
+    "jyutping": "mui4mui2",
+    "pinyin": "mèi mei",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "祖父",
+    "jyutping": "zou2fu6",
+    "pinyin": "zǔ fù",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "祖母",
+    "jyutping": "zou2 mou5",
+    "pinyin": "zǔ mǔ",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "外公",
+    "jyutping": "ngoi6gung1",
+    "pinyin": "wài gōng",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "外婆",
+    "jyutping": "ngoi6po4",
+    "pinyin": "wài pó",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "叔叔",
+    "jyutping": "suk1suk1",
+    "pinyin": "shū shu",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "阿姨",
+    "jyutping": "aa3ji1",
+    "pinyin": "ā yí",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "舅父",
+    "jyutping": "kau5fu2",
+    "pinyin": "jiù fù",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "舅母",
+    "jyutping": "kau5mou5",
+    "pinyin": "jiù mu",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姑媽",
+    "jyutping": "gu1maa1",
+    "pinyin": "gū mā",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姑丈",
+    "jyutping": "gu1zoeng2",
+    "pinyin": "gū zhàng",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家人",
+    "jyutping": "gaa1jan4",
+    "pinyin": "jiā rén",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家中",
+    "jyutping": "gaa1 zung1",
+    "pinyin": "jiā zhōng",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親人",
+    "jyutping": "can1jan4",
+    "pinyin": "qīn rén",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "嬰兒",
+    "jyutping": "jing1ji4",
+    "pinyin": "yīng ér",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "兒子",
+    "jyutping": "ji4zi2",
+    "pinyin": "ér zǐ",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "女兒",
+    "jyutping": "neoi5ji4",
+    "pinyin": "nǚ ér",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家庭",
+    "jyutping": "gaa1ting4",
+    "pinyin": "jiā tíng",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親戚",
+    "jyutping": "can1cik1",
+    "pinyin": "qīn qī",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "孫子",
+    "jyutping": "syun1zi2",
+    "pinyin": "sūn zǐ",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "孫女",
+    "jyutping": "syun1neoi2",
+    "pinyin": "sūn nǚ",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "表哥",
+    "jyutping": "biu2go1",
+    "pinyin": "biǎo gē",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "表姐",
+    "jyutping": "biu2ze2",
+    "pinyin": "biǎo jiě",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "堂哥",
+    "jyutping": "tong4 go1",
+    "pinyin": "táng gē",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "堂姐",
+    "jyutping": "tong4 ze2",
+    "pinyin": "táng jiě",
+    "level": "preschool",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "杯",
+    "jyutping": "bui1",
+    "pinyin": "bēi",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "碗",
+    "jyutping": "wun2",
+    "pinyin": "wǎn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "筷子",
+    "jyutping": "faai3zi2",
+    "pinyin": "kuài zi",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "湯匙",
+    "jyutping": "tong1 ci4",
+    "pinyin": "tāng chí",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "碟",
+    "jyutping": "dip6",
+    "pinyin": "dié",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "書",
+    "jyutping": "syu1",
+    "pinyin": "shū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "桌",
+    "jyutping": "coek3",
+    "pinyin": "zhuō",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "椅",
+    "jyutping": "ji2",
+    "pinyin": "yǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "門",
+    "jyutping": "mun4",
+    "pinyin": "mén",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "窗",
+    "jyutping": "coeng1",
+    "pinyin": "chuāng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "床",
+    "jyutping": "cong4",
+    "pinyin": "chuáng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "枕頭",
+    "jyutping": "zam2tau4",
+    "pinyin": "zhěn tóu",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "被子",
+    "jyutping": "pei5zi2",
+    "pinyin": "bèi zi",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "毛巾",
+    "jyutping": "mou4gan1",
+    "pinyin": "máo jīn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "牙刷",
+    "jyutping": "ngaa4caat2",
+    "pinyin": "yá shuā",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "鏡子",
+    "jyutping": "geng3zi2",
+    "pinyin": "jìng zǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "雨傘",
+    "jyutping": "jyu5saan3",
+    "pinyin": "yǔ sǎn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "電話",
+    "jyutping": "din6waa2",
+    "pinyin": "diàn huà",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "電腦",
+    "jyutping": "din6nou5",
+    "pinyin": "diàn nǎo",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "電視",
+    "jyutping": "din6si6",
+    "pinyin": "diàn shì",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "時鐘",
+    "jyutping": "si4zung1",
+    "pinyin": "shí zhōng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "背包",
+    "jyutping": "bui3baau1",
+    "pinyin": "bēi bāo",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "鑰匙",
+    "jyutping": "jiu6 si4",
+    "pinyin": "yào shi",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "燈",
+    "jyutping": "dang1",
+    "pinyin": "dēng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "風扇",
+    "jyutping": "fung1sin3",
+    "pinyin": "fēng shàn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "冰箱",
+    "jyutping": "bing1 soeng1",
+    "pinyin": "bīng xiāng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "相機",
+    "jyutping": "soeng2gei1",
+    "pinyin": "xiāng jī",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "錢包",
+    "jyutping": "cin4baau1",
+    "pinyin": "qián bāo",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "衣服",
+    "jyutping": "ji1fuk6",
+    "pinyin": "yī fu",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "鞋子",
+    "jyutping": "haai4zi2",
+    "pinyin": "xié zǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "皮球",
+    "jyutping": "pei4 kau4",
+    "pinyin": "pí qiú",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "積木",
+    "jyutping": "zik1muk6",
+    "pinyin": "jī mù",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "洋娃娃",
+    "jyutping": "joeng4waa1waa1",
+    "pinyin": "yáng wá wa",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "玩具車",
+    "jyutping": "wun6 geoi6 ce1",
+    "pinyin": "wán jù jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "玩偶",
+    "jyutping": "waan4 ngau5",
+    "pinyin": "wán ǒu",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "拼圖",
+    "jyutping": "ping3tou4",
+    "pinyin": "pīn tú",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "風箏",
+    "jyutping": "fung1zang1",
+    "pinyin": "fēng zhēng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "陀螺",
+    "jyutping": "to4lo4",
+    "pinyin": "tuó luó",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "跳繩",
+    "jyutping": "tiu3 sing4",
+    "pinyin": "tiào shéng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "氣球",
+    "jyutping": "hei3 kau4",
+    "pinyin": "qì qiú",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "飛盤",
+    "jyutping": "fei1 pun4",
+    "pinyin": "fēi pán",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "滑板",
+    "jyutping": "waat6baan2",
+    "pinyin": "huá bǎn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "遊戲卡",
+    "jyutping": "jau4 hei3 kaa1",
+    "pinyin": "yóu xì kǎ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "畫筆",
+    "jyutping": "waa2bat1",
+    "pinyin": "huà bǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "顏色筆",
+    "jyutping": "ngaan4 sik1 bat1",
+    "pinyin": "yán sè bǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "蠟筆",
+    "jyutping": "laap6bat1",
+    "pinyin": "là bǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "貼紙",
+    "jyutping": "tip3zi2",
+    "pinyin": "tiē zhǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "玩具熊",
+    "jyutping": "wun6 geoi6 hung4",
+    "pinyin": "wán jù xióng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "樂高",
+    "jyutping": "lok6 gou1",
+    "pinyin": "lè gāo",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "棋子",
+    "jyutping": "kei4zi2",
+    "pinyin": "qí zǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "骰子",
+    "jyutping": "tau4zi2",
+    "pinyin": "tóu zǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "紙牌",
+    "jyutping": "zi2 paai4",
+    "pinyin": "zhǐ pái",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "沙包",
+    "jyutping": "saa1baau1",
+    "pinyin": "shā bāo",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "呼拉圈",
+    "jyutping": "fu1 laai1 hyun1",
+    "pinyin": "hū lā quān",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "黏土",
+    "jyutping": "nim1 tou2",
+    "pinyin": "nián tǔ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "吹泡泡",
+    "jyutping": "ceoi1 paau1 paau1",
+    "pinyin": "chuī pào pào",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "木馬",
+    "jyutping": "muk6maa5",
+    "pinyin": "mù mǎ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "玩具屋",
+    "jyutping": "wun6 geoi6 uk1",
+    "pinyin": "wán jù wū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "玩具電話",
+    "jyutping": "wun6 geoi6 din6 waa6",
+    "pinyin": "wán jù diàn huà",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "火車模型",
+    "jyutping": "fo2 ce1 mou4 jing4",
+    "pinyin": "huǒ jū mó xíng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "toy"
+  },
+  {
+    "term": "汽車",
+    "jyutping": "hei3ce1",
+    "pinyin": "qì jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "巴士",
+    "jyutping": "baa1si2",
+    "pinyin": "bā shì",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "的士",
+    "jyutping": "dik1si2",
+    "pinyin": "dī shì",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "地鐵",
+    "jyutping": "dei6tit3",
+    "pinyin": "dì tiě",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "火車",
+    "jyutping": "fo2ce1",
+    "pinyin": "huǒ jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "電車",
+    "jyutping": "din6ce1",
+    "pinyin": "diàn jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "渡輪",
+    "jyutping": "dou6leon4",
+    "pinyin": "dù lún",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "飛機",
+    "jyutping": "fei1gei1",
+    "pinyin": "fēi jī",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "單車",
+    "jyutping": "daan1ce1",
+    "pinyin": "dān jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "校巴",
+    "jyutping": "haau6 baa1",
+    "pinyin": "xiào bā",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "救護車",
+    "jyutping": "gau3wu6ce1",
+    "pinyin": "jiù hù jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "消防車",
+    "jyutping": "siu1fong4ce1",
+    "pinyin": "xiāo fáng jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "貨車",
+    "jyutping": "fo3ce1",
+    "pinyin": "huò jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "電單車",
+    "jyutping": "din6daan1ce1",
+    "pinyin": "diàn dān jū",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "船",
+    "jyutping": "syun4",
+    "pinyin": "chuán",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "隧道",
+    "jyutping": "seoi6dou6",
+    "pinyin": "suì dào",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "站牌",
+    "jyutping": "zaam6 paai4",
+    "pinyin": "zhàn pái",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "車站",
+    "jyutping": "ce1zaam6",
+    "pinyin": "jū zhàn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "機場",
+    "jyutping": "gei1coeng4",
+    "pinyin": "jī chǎng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "港口",
+    "jyutping": "gong2hau2",
+    "pinyin": "gǎng kǒu",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "路軌",
+    "jyutping": "lou6gwai2",
+    "pinyin": "lù guǐ",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "交通燈",
+    "jyutping": "gaau1tung1dang1",
+    "pinyin": "jiāo tōng dēng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "斑馬線",
+    "jyutping": "baan1maa5sin3",
+    "pinyin": "bān mǎ xiàn",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "車票",
+    "jyutping": "ce1piu3",
+    "pinyin": "jū piào",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "八達通",
+    "jyutping": "baat3daat6tung1",
+    "pinyin": "bā dá tōng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "方向盤",
+    "jyutping": "fong1 hoeng3 pun4",
+    "pinyin": "fāng xiàng pán",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "車門",
+    "jyutping": "ce1mun4",
+    "pinyin": "jū mén",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "車窗",
+    "jyutping": "ce1coeng1",
+    "pinyin": "jū chuāng",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "車輪",
+    "jyutping": "ce1leon4",
+    "pinyin": "jū lún",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "安全帶",
+    "jyutping": "on1cyun4daai2",
+    "pinyin": "ān quán dài",
+    "level": "preschool",
+    "category": "object",
+    "topic": "transport"
+  },
+  {
+    "term": "櫻桃",
+    "jyutping": "jing1 tou4",
+    "pinyin": "yīng táo",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "哈密瓜",
+    "jyutping": "haa1 mat6 gwaa1",
+    "pinyin": "hā mì guā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "檸檬",
+    "jyutping": "ning4mung1",
+    "pinyin": "níng méng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "木瓜",
+    "jyutping": "muk6gwaa1",
+    "pinyin": "mù guā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "馬鈴薯",
+    "jyutping": "maa5ling4syu4",
+    "pinyin": "mǎ líng shǔ",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "白飯",
+    "jyutping": "baak6faan6",
+    "pinyin": "bái fàn",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "肉丸",
+    "jyutping": "juk6jyun2",
+    "pinyin": "ròu wán",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "炒飯",
+    "jyutping": "caau2faan6",
+    "pinyin": "chǎo fàn",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "炒麵",
+    "jyutping": "caau2 min6",
+    "pinyin": "chǎo miàn",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "餛飩",
+    "jyutping": "wan4 tan1",
+    "pinyin": "hún tun",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "水餃",
+    "jyutping": "seoi2 gaau2",
+    "pinyin": "shuǐ jiǎo",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "燒賣",
+    "jyutping": "siu1maai2",
+    "pinyin": "shāo mài",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "包子",
+    "jyutping": "baau1zi2",
+    "pinyin": "bāo zǐ",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "三文治",
+    "jyutping": "saam1",
+    "pinyin": "sān wén zhì",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "漢堡包",
+    "jyutping": "hon3bou2baau1",
+    "pinyin": "hàn bǎo bāo",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "意粉",
+    "jyutping": "ji3fan2",
+    "pinyin": "yì fěn",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "薄餅",
+    "jyutping": "bok6beng2",
+    "pinyin": "báo bǐng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "沙律",
+    "jyutping": "saa1leot2",
+    "pinyin": "shā lǜ",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "壽司",
+    "jyutping": "sau6si1",
+    "pinyin": "shòu sī",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "豆腐",
+    "jyutping": "dau6fu6",
+    "pinyin": "dòu fu",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "南瓜",
+    "jyutping": "naam4gwaa1",
+    "pinyin": "nán guā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "冬瓜",
+    "jyutping": "dung1gwaa1",
+    "pinyin": "dōng guā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "青瓜",
+    "jyutping": "ceng1gwaa1",
+    "pinyin": "qīng guā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "紅蘿蔔",
+    "jyutping": "hung4lo4baak6",
+    "pinyin": "hóng luó bo",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "洋蔥",
+    "jyutping": "joeng4cung1",
+    "pinyin": "yáng cōng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "西蘭花",
+    "jyutping": "sai1laan4faa1",
+    "pinyin": "xī lán huā",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蘑菇",
+    "jyutping": "mo4gu1",
+    "pinyin": "mó gu",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蜜糖",
+    "jyutping": "mat6tong4",
+    "pinyin": "mì táng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "花生",
+    "jyutping": "faa1sang1",
+    "pinyin": "huā shēng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "臘腸",
+    "jyutping": "laap6coeng2",
+    "pinyin": "là cháng",
+    "level": "junior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "滿意",
+    "jyutping": "mun5ji3",
+    "pinyin": "mǎn yì",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "驕傲",
+    "jyutping": "giu1ngou6",
+    "pinyin": "jiāo ào",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "感動",
+    "jyutping": "gam2dung6",
+    "pinyin": "gǎn dòng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "失望",
+    "jyutping": "sat1mong6",
+    "pinyin": "shī wàng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "焦慮",
+    "jyutping": "ziu1leoi6",
+    "pinyin": "jiāo lǜ",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "自信",
+    "jyutping": "zi6seon3",
+    "pinyin": "zì xìn",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "羞愧",
+    "jyutping": "sau1kwai3",
+    "pinyin": "xiū kuì",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "嫉妒",
+    "jyutping": "zat6dou3",
+    "pinyin": "jí dù",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "期待",
+    "jyutping": "kei4doi6",
+    "pinyin": "qī dài",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "煩惱",
+    "jyutping": "faan4nou5",
+    "pinyin": "fán nǎo",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "孤單",
+    "jyutping": "gu1daan1",
+    "pinyin": "gū dān",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "疲倦",
+    "jyutping": "pei4gyun6",
+    "pinyin": "pí juàn",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "平靜",
+    "jyutping": "ping4zing6",
+    "pinyin": "píng jìng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "溫柔",
+    "jyutping": "wan1jau4",
+    "pinyin": "wēn róu",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "關心",
+    "jyutping": "gwaan1sam1",
+    "pinyin": "guān xīn",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "感謝",
+    "jyutping": "gam2ze6",
+    "pinyin": "gǎn xiè",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "希望",
+    "jyutping": "hei1mong6",
+    "pinyin": "xī wàng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "信任",
+    "jyutping": "seon3jam4",
+    "pinyin": "xìn rèn",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "尊重",
+    "jyutping": "zyun1zung6",
+    "pinyin": "zūn zhòng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "同情",
+    "jyutping": "tung4cing4",
+    "pinyin": "tóng qíng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "寬容",
+    "jyutping": "fun1jung4",
+    "pinyin": "kuān róng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "體諒",
+    "jyutping": "tai2loeng6",
+    "pinyin": "tǐ liàng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "慚愧",
+    "jyutping": "caam4kwai3",
+    "pinyin": "cán kuì",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "沮喪",
+    "jyutping": "zeoi2song3",
+    "pinyin": "jǔ sāng",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "挫折",
+    "jyutping": "co3zit3",
+    "pinyin": "cuò zhé",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "壓力",
+    "jyutping": "aat3lik6",
+    "pinyin": "yā lì",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "困惑",
+    "jyutping": "kwan3waak6",
+    "pinyin": "kùn huò",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "內疚",
+    "jyutping": "noi6gau3",
+    "pinyin": "nèi jiù",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "樂觀",
+    "jyutping": "lok6gun1",
+    "pinyin": "lè guān",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "悲觀",
+    "jyutping": "bei1gun1",
+    "pinyin": "bēi guān",
+    "level": "junior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "狐狸",
+    "jyutping": "wu4lei2",
+    "pinyin": "hú li",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "狼",
+    "jyutping": "long4",
+    "pinyin": "láng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海龜",
+    "jyutping": "hoi2gwai1",
+    "pinyin": "hǎi guī",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海星",
+    "jyutping": "hoi2sing1",
+    "pinyin": "hǎi xīng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "八爪魚",
+    "jyutping": "baat3zaau2jyu4",
+    "pinyin": "bā zhuǎ yú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鸚鵡",
+    "jyutping": "jing1mou5",
+    "pinyin": "yīng wǔ",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "駱駝",
+    "jyutping": "lok3to4",
+    "pinyin": "luò tuó",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "章魚",
+    "jyutping": "zoeng1jyu2",
+    "pinyin": "zhāng yú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "貓頭鷹",
+    "jyutping": "maau1tau4jing1",
+    "pinyin": "māo tóu yīng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "斑點狗",
+    "jyutping": "baan1 dim2 gau2",
+    "pinyin": "bān diǎn gǒu",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "牧羊犬",
+    "jyutping": "muk6 joeng4 hyun2",
+    "pinyin": "mù yáng quǎn",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "梅花鹿",
+    "jyutping": "mui4 faa1 luk6",
+    "pinyin": "méi huā lù",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "黑猩猩",
+    "jyutping": "hak1 sing1 sing1",
+    "pinyin": "hēi xīng xīng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "孔雀",
+    "jyutping": "hung2zoek3",
+    "pinyin": "kǒng què",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "天鵝",
+    "jyutping": "tin1ngo4",
+    "pinyin": "tiān é",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鯊魚",
+    "jyutping": "saa1jyu4",
+    "pinyin": "shā yú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海馬",
+    "jyutping": "hoi2maa5",
+    "pinyin": "hǎi mǎ",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "珊瑚魚",
+    "jyutping": "saan1 wu4 jyu4",
+    "pinyin": "shān hú yú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "螞蟻",
+    "jyutping": "maa5ngai5",
+    "pinyin": "mǎ yǐ",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蜘蛛",
+    "jyutping": "zi1zyu1",
+    "pinyin": "zhī zhū",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蚯蚓",
+    "jyutping": "jau1jan5",
+    "pinyin": "qiū yǐn",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蝸牛",
+    "jyutping": "wo1ngau4",
+    "pinyin": "wō niú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "螳螂",
+    "jyutping": "tong4long4",
+    "pinyin": "táng láng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "甲蟲",
+    "jyutping": "gaap3cung4",
+    "pinyin": "jiǎ chóng",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蜥蜴",
+    "jyutping": "sik1jik6",
+    "pinyin": "xī yì",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鱷魚",
+    "jyutping": "ngok6jyu4",
+    "pinyin": "è yú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "犀牛",
+    "jyutping": "sai1ngau4",
+    "pinyin": "xī niú",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "獵豹",
+    "jyutping": "lip6paau3",
+    "pinyin": "liè bào",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "駱馬",
+    "jyutping": "lok3 maa5",
+    "pinyin": "luò mǎ",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海豹",
+    "jyutping": "hoi2 paau3",
+    "pinyin": "hǎi bào",
+    "level": "junior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "湖水藍",
+    "jyutping": "wu4 seoi2 laam4",
+    "pinyin": "hú shuǐ lán",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "墨綠色",
+    "jyutping": "mak6 luk6 sik1",
+    "pinyin": "mò lǜ sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "淺紫色",
+    "jyutping": "cin2 zi2 sik1",
+    "pinyin": "qiǎn zǐ sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "深紫色",
+    "jyutping": "sam1 zi2 sik1",
+    "pinyin": "shēn zǐ sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "玫瑰紅",
+    "jyutping": "mui4 gwai1 hung4",
+    "pinyin": "méi guī hóng",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "青綠色",
+    "jyutping": "cing1 luk6 sik1",
+    "pinyin": "qīng lǜ sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "深灰色",
+    "jyutping": "sam1 fui1 sik1",
+    "pinyin": "shēn huī sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "淺灰色",
+    "jyutping": "cin2 fui1 sik1",
+    "pinyin": "qiǎn huī sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "檸檬黃",
+    "jyutping": "ning4 mung1 wong4",
+    "pinyin": "níng méng huáng",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "橄欖綠",
+    "jyutping": "gam2 laam5 luk6",
+    "pinyin": "gǎn lǎn lǜ",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "藏青色",
+    "jyutping": "cong4 cing1 sik1",
+    "pinyin": "zàng qīng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "酒紅色",
+    "jyutping": "zau2 hung4 sik1",
+    "pinyin": "jiǔ hóng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "朱紅色",
+    "jyutping": "zyu1hung4sik1",
+    "pinyin": "zhū hóng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "鵝黃色",
+    "jyutping": "ngo4 wong4 sik1",
+    "pinyin": "é huáng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "香檳色",
+    "jyutping": "hoeng1 ban1 sik1",
+    "pinyin": "xiāng bīn sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "珊瑚色",
+    "jyutping": "saan1 wu4 sik1",
+    "pinyin": "shān hú sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "靛藍色",
+    "jyutping": "din6 laam4 sik1",
+    "pinyin": "diàn lán sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "薄荷綠",
+    "jyutping": "bok6 ho4 luk6",
+    "pinyin": "bò he lǜ",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "青藍色",
+    "jyutping": "cing1 laam4 sik1",
+    "pinyin": "qīng lán sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "煙灰色",
+    "jyutping": "jin1 fui1 sik1",
+    "pinyin": "yān huī sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "象牙白",
+    "jyutping": "zoeng6 ngaa4 baak6",
+    "pinyin": "xiàng yá bái",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "栗色",
+    "jyutping": "leot6 sik1",
+    "pinyin": "lì sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "咖啡色",
+    "jyutping": "gaa3fe1sik1",
+    "pinyin": "kā fēi sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "磚紅色",
+    "jyutping": "zyun1 hung4 sik1",
+    "pinyin": "zhuān hóng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "暖色",
+    "jyutping": "nyun5 sik1",
+    "pinyin": "nuǎn sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "冷色",
+    "jyutping": "laang5 sik1",
+    "pinyin": "lěng sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "主色",
+    "jyutping": "zyu2 sik1",
+    "pinyin": "zhǔ sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "調色",
+    "jyutping": "diu6 sik1",
+    "pinyin": "diào sè",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "顏料",
+    "jyutping": "ngaan4liu2",
+    "pinyin": "yán liào",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "色彩",
+    "jyutping": "sik1coi2",
+    "pinyin": "sè cǎi",
+    "level": "junior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "額頭",
+    "jyutping": "ngaak6tau4",
+    "pinyin": "é tóu",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "太陽穴",
+    "jyutping": "taai3joeng4jyut6",
+    "pinyin": "tài yáng xué",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "臉蛋",
+    "jyutping": "lim5daan2",
+    "pinyin": "liǎn dàn",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "下巴",
+    "jyutping": "haa6paa4",
+    "pinyin": "xià bā",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "喉嚨",
+    "jyutping": "hau4lung4",
+    "pinyin": "hóu lóng",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "胸口",
+    "jyutping": "hung1hau2",
+    "pinyin": "xiōng kǒu",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肩胛",
+    "jyutping": "gin1 gaap3",
+    "pinyin": "jiān jiǎ",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "骨頭",
+    "jyutping": "gwat1tau4",
+    "pinyin": "gǔ tóu",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肌肉",
+    "jyutping": "gei1juk6",
+    "pinyin": "jī ròu",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "血液",
+    "jyutping": "hyut3jik6",
+    "pinyin": "xuè yè",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "胃",
+    "jyutping": "wai6",
+    "pinyin": "wèi",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腸子",
+    "jyutping": "coeng4 zi2",
+    "pinyin": "cháng zǐ",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肝臟",
+    "jyutping": "gon1zong6",
+    "pinyin": "gān zàng",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腎臟",
+    "jyutping": "san5zong6",
+    "pinyin": "shèn zàng",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "手肘",
+    "jyutping": "sau2zau2",
+    "pinyin": "shǒu zhǒu",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "前臂",
+    "jyutping": "cin4bei3",
+    "pinyin": "qián bì",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "小腿",
+    "jyutping": "siu2teoi2",
+    "pinyin": "xiǎo tuǐ",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "大腿",
+    "jyutping": "daai6teoi2",
+    "pinyin": "dà tuǐ",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腳踝",
+    "jyutping": "goek3waa5",
+    "pinyin": "jiǎo huái",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "腳跟",
+    "jyutping": "goek3 gan1",
+    "pinyin": "jiǎo gēn",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "髖部",
+    "jyutping": "fun1 bou6",
+    "pinyin": "kuān bù",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "胸部",
+    "jyutping": "hung1bou6",
+    "pinyin": "xiōng bù",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "脊骨",
+    "jyutping": "zek3gwat1",
+    "pinyin": "jǐ gǔ",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "頭頂",
+    "jyutping": "tau4deng2",
+    "pinyin": "tóu dǐng",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "關節",
+    "jyutping": "gwaan1zit3",
+    "pinyin": "guān jié",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "脈搏",
+    "jyutping": "mak6bok3",
+    "pinyin": "mài bó",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "呼吸",
+    "jyutping": "fu1kap1",
+    "pinyin": "hū xī",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "視力",
+    "jyutping": "si6lik6",
+    "pinyin": "shì lì",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "聽力",
+    "jyutping": "teng1lik6",
+    "pinyin": "tīng lì",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "味覺",
+    "jyutping": "mei6gok3",
+    "pinyin": "wèi jué",
+    "level": "junior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "繼父",
+    "jyutping": "gai3 fu6",
+    "pinyin": "jì fù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "繼母",
+    "jyutping": "gai3mou5",
+    "pinyin": "jì mǔ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "繼兄",
+    "jyutping": "gai3 hing1",
+    "pinyin": "jì xiōng",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "繼姐",
+    "jyutping": "gai3 ze2",
+    "pinyin": "jì jiě",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "女婿",
+    "jyutping": "neoi5sai3",
+    "pinyin": "nǚ xu",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "媳婦",
+    "jyutping": "sik1 fu5",
+    "pinyin": "xí fù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "侄子",
+    "jyutping": "zat6 zi2",
+    "pinyin": "zhí zi",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "侄女",
+    "jyutping": "zat6 neoi5",
+    "pinyin": "zhí nǚ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "甥子",
+    "jyutping": "sang1 zi2",
+    "pinyin": "shēng zǐ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "甥女",
+    "jyutping": "sang1 neoi5",
+    "pinyin": "shēng nǚ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "伯父",
+    "jyutping": "baak3fu6",
+    "pinyin": "bó fù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "伯母",
+    "jyutping": "baak3mou5",
+    "pinyin": "bó mǔ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姨父",
+    "jyutping": "ji4 fu6",
+    "pinyin": "yí fù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姨母",
+    "jyutping": "ji4 mou5",
+    "pinyin": "yí mǔ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "乾爹",
+    "jyutping": "kin4 de1",
+    "pinyin": "qián diē",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "乾媽",
+    "jyutping": "kin4 maa1",
+    "pinyin": "qián mā",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "監護人",
+    "jyutping": "gaam1wu6jan4",
+    "pinyin": "jiān hù rén",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親家",
+    "jyutping": "can3gaa1",
+    "pinyin": "qīn jiā",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "手足",
+    "jyutping": "sau2zuk1",
+    "pinyin": "shǒu zú",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "夫婦",
+    "jyutping": "fu1fu5",
+    "pinyin": "fū fù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "夫妻",
+    "jyutping": "fu1cai1",
+    "pinyin": "fū qī",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家族",
+    "jyutping": "gaa1zuk6",
+    "pinyin": "jiā zú",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家務",
+    "jyutping": "gaa1mou6",
+    "pinyin": "jiā wù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家規",
+    "jyutping": "gaa1 kwai1",
+    "pinyin": "jiā guī",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家門",
+    "jyutping": "gaa1mun4",
+    "pinyin": "jiā mén",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家鄉",
+    "jyutping": "gaa1hoeng1",
+    "pinyin": "jiā xiāng",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家庭照顧",
+    "jyutping": "gaa1 ting4 ziu3 gu3",
+    "pinyin": "jiā tíng zhào gù",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家庭聚會",
+    "jyutping": "gaa1 ting4 zeoi6 wui6",
+    "pinyin": "jiā tíng jù huì",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親子",
+    "jyutping": "can1zi2",
+    "pinyin": "qīn zǐ",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親友",
+    "jyutping": "can1 jau5",
+    "pinyin": "qīn yǒu",
+    "level": "junior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "鉛筆",
+    "jyutping": "jyun4bat1",
+    "pinyin": "qiān bǐ",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "橡皮",
+    "jyutping": "zoeng6pei4",
+    "pinyin": "xiàng pí",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "尺子",
+    "jyutping": "cek3 zi2",
+    "pinyin": "chǐ zi",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "書本",
+    "jyutping": "syu1bun2",
+    "pinyin": "shū běn",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "功課簿",
+    "jyutping": "gung1 fo3 bou6",
+    "pinyin": "gōng kè bó",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "筆袋",
+    "jyutping": "bat1doi6",
+    "pinyin": "bǐ dài",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "膠水",
+    "jyutping": "gaau1seoi2",
+    "pinyin": "jiāo shuǐ",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "剪刀",
+    "jyutping": "zin2dou1",
+    "pinyin": "jiǎn dāo",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "計算機",
+    "jyutping": "gai3syun3gei1",
+    "pinyin": "jì suàn jī",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "地球儀",
+    "jyutping": "dei6 kau4 ji4",
+    "pinyin": "dì qiú yí",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "吹風機",
+    "jyutping": "ceoi1 fung1 gei1",
+    "pinyin": "chuī fēng jī",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "洗衣機",
+    "jyutping": "sai2ji1gei1",
+    "pinyin": "xǐ yī jī",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "吸塵機",
+    "jyutping": "kap1can4gei1",
+    "pinyin": "xī chén jī",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "微波爐",
+    "jyutping": "mei4bo1lou4",
+    "pinyin": "wēi bō lú",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "電飯煲",
+    "jyutping": "din6 faan6 bou1",
+    "pinyin": "diàn fàn bāo",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "煮食爐",
+    "jyutping": "zyu2 sik6 lou4",
+    "pinyin": "zhǔ shí lú",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "水壺",
+    "jyutping": "seoi2wu2",
+    "pinyin": "shuǐ hú",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "飯盒",
+    "jyutping": "faan6hap6",
+    "pinyin": "fàn hé",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "保溫瓶",
+    "jyutping": "bou2 wan1 ping4",
+    "pinyin": "bǎo wēn píng",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "耳機",
+    "jyutping": "ji5gei1",
+    "pinyin": "ěr jī",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "遙控器",
+    "jyutping": "jiu4 hung3 hei3",
+    "pinyin": "yáo kòng qì",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "插頭",
+    "jyutping": "caap3tau4",
+    "pinyin": "chā tóu",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "充電器",
+    "jyutping": "cung1 din6 hei3",
+    "pinyin": "chōng diàn qì",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "行李箱",
+    "jyutping": "hang4 lei5 soeng1",
+    "pinyin": "xíng li xiāng",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "衣櫃",
+    "jyutping": "ji1gwai6",
+    "pinyin": "yī guì",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "鞋櫃",
+    "jyutping": "haai4 gwai6",
+    "pinyin": "xié guì",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "書架",
+    "jyutping": "syu1gaa2",
+    "pinyin": "shū jià",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "抽屜",
+    "jyutping": "cau1tai3",
+    "pinyin": "chōu tì",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "垃圾桶",
+    "jyutping": "laap6 saap3 tung2",
+    "pinyin": "lā jī tǒng",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "回收箱",
+    "jyutping": "wui4 sau1 soeng1",
+    "pinyin": "huí shōu xiāng",
+    "level": "junior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "學校",
+    "jyutping": "hok6haau6",
+    "pinyin": "xué xiào",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "老師",
+    "jyutping": "lou5si1",
+    "pinyin": "lǎo shī",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "同學",
+    "jyutping": "tung4hok6",
+    "pinyin": "tóng xué",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "課室",
+    "jyutping": "fo3sat1",
+    "pinyin": "kè shì",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "閱讀",
+    "jyutping": "jyut6duk6",
+    "pinyin": "yuè dú",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "寫字",
+    "jyutping": "se2zi6",
+    "pinyin": "xiě zì",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "數學",
+    "jyutping": "sou3hok6",
+    "pinyin": "shù xué",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "音樂",
+    "jyutping": "jam1ngok6",
+    "pinyin": "yīn lè",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "圖畫",
+    "jyutping": "tou4waa2",
+    "pinyin": "tú huà",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "休息",
+    "jyutping": "jau1sik1",
+    "pinyin": "xiū xi",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "圖書館",
+    "jyutping": "tou4syu1gun2",
+    "pinyin": "tú shū guǎn",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "操場",
+    "jyutping": "cou1coeng4",
+    "pinyin": "cāo chǎng",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "校服",
+    "jyutping": "haau6fuk6",
+    "pinyin": "xiào fú",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "考試",
+    "jyutping": "haau2si3",
+    "pinyin": "kǎo shì",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "溫習",
+    "jyutping": "wan1zaap6",
+    "pinyin": "wēn xí",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "班長",
+    "jyutping": "baan1zoeng2",
+    "pinyin": "bān cháng",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "小組",
+    "jyutping": "siu2zou2",
+    "pinyin": "xiǎo zǔ",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "課本",
+    "jyutping": "fo3bun2",
+    "pinyin": "kè běn",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "練習簿",
+    "jyutping": "lin6 zaap6 bou6",
+    "pinyin": "liàn xí bó",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "白板",
+    "jyutping": "baak6baan2",
+    "pinyin": "bái bǎn",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "黑板",
+    "jyutping": "hak1baan2",
+    "pinyin": "hēi bǎn",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "校長",
+    "jyutping": "haau6zoeng2",
+    "pinyin": "xiào cháng",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "禮堂",
+    "jyutping": "lai5tong4",
+    "pinyin": "lǐ táng",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "上課",
+    "jyutping": "soeng5fo3",
+    "pinyin": "shàng kè",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "下課",
+    "jyutping": "haa6fo3",
+    "pinyin": "xià kè",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "默書",
+    "jyutping": "mak6syu1",
+    "pinyin": "mò shū",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "小息",
+    "jyutping": "siu2sik1",
+    "pinyin": "xiǎo xī",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "校曆",
+    "jyutping": "haau6 lik6",
+    "pinyin": "xiào lì",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "成績表",
+    "jyutping": "sing4 zik1 biu2",
+    "pinyin": "chéng jì biǎo",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "家長日",
+    "jyutping": "gaa1 coeng4 jat6",
+    "pinyin": "jiā cháng rì",
+    "level": "junior",
+    "category": "school",
+    "topic": "school"
+  },
+  {
+    "term": "醫生",
+    "jyutping": "ji1sang1",
+    "pinyin": "yī shēng",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "護士",
+    "jyutping": "wu6si6",
+    "pinyin": "hù shì",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "警察",
+    "jyutping": "ging2caat3",
+    "pinyin": "jǐng chá",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "消防員",
+    "jyutping": "siu1fong4jyun4",
+    "pinyin": "xiāo fáng yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "廚師",
+    "jyutping": "cyu4si1",
+    "pinyin": "chú shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "農夫",
+    "jyutping": "nung4fu1",
+    "pinyin": "nóng fū",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "司機",
+    "jyutping": "si1gei1",
+    "pinyin": "sī jī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "機師",
+    "jyutping": "gei1 si1",
+    "pinyin": "jī shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "圖書管理員",
+    "jyutping": "tou4 syu1 gun2 lei5 jyun4",
+    "pinyin": "tú shū guǎn lǐ yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "郵差",
+    "jyutping": "jau4caai1",
+    "pinyin": "yóu chà",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "園丁",
+    "jyutping": "jyun4 ding1",
+    "pinyin": "yuán dīng",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "畫家",
+    "jyutping": "waa2gaa1",
+    "pinyin": "huà jiā",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "工程師",
+    "jyutping": "gung1cing4si1",
+    "pinyin": "gōng chéng shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "運動員",
+    "jyutping": "wan6 dung6 jyun4",
+    "pinyin": "yùn dòng yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "歌手",
+    "jyutping": "go1sau2",
+    "pinyin": "gē shǒu",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "演員",
+    "jyutping": "jin2jyun4",
+    "pinyin": "yǎn yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "記者",
+    "jyutping": "gei3ze2",
+    "pinyin": "jì zhě",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "律師",
+    "jyutping": "leot6si1",
+    "pinyin": "lǜ shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "會計師",
+    "jyutping": "wui6 gai3 si1",
+    "pinyin": "huì jì shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "攝影師",
+    "jyutping": "sip3 jing2 si1",
+    "pinyin": "shè yǐng shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "髮型師",
+    "jyutping": "faat3 jing4 si1",
+    "pinyin": "fà xíng shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "建築師",
+    "jyutping": "gin3 zuk1 si1",
+    "pinyin": "jiàn zhù shī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "科學家",
+    "jyutping": "fo1 hok6 gaa1",
+    "pinyin": "kē xué jiā",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "牙醫",
+    "jyutping": "ngaa4ji1",
+    "pinyin": "yá yī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "獸醫",
+    "jyutping": "sau3ji1",
+    "pinyin": "shòu yī",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "店員",
+    "jyutping": "dim3jyun4",
+    "pinyin": "diàn yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "清潔工",
+    "jyutping": "cing1 git3 gung1",
+    "pinyin": "qīng jié gōng",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "導遊",
+    "jyutping": "dou6jau4",
+    "pinyin": "dǎo yóu",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "漁民",
+    "jyutping": "jyu4 man4",
+    "pinyin": "yú mín",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "服務員",
+    "jyutping": "fuk6 mou6 jyun4",
+    "pinyin": "fú wù yuán",
+    "level": "junior",
+    "category": "other",
+    "topic": "career"
+  },
+  {
+    "term": "足球",
+    "jyutping": "zuk1kau4",
+    "pinyin": "zú qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "籃球",
+    "jyutping": "laam4kau4",
+    "pinyin": "lán qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "羽毛球",
+    "jyutping": "jyu5mou4kau4",
+    "pinyin": "yǔ máo qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "游泳",
+    "jyutping": "jau4wing6",
+    "pinyin": "yóu yǒng",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "跑步",
+    "jyutping": "paau2bou6",
+    "pinyin": "pǎo bù",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "乒乓球",
+    "jyutping": "bing1 bam1 kau4",
+    "pinyin": "pīng pāng qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "排球",
+    "jyutping": "paai4kau4",
+    "pinyin": "pái qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "網球",
+    "jyutping": "mong5kau4",
+    "pinyin": "wǎng qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "跳高",
+    "jyutping": "tiu3gou1",
+    "pinyin": "tiào gāo",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "跳遠",
+    "jyutping": "tiu3jyun5",
+    "pinyin": "tiào yuǎn",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "體操",
+    "jyutping": "tai2cou1",
+    "pinyin": "tǐ cāo",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "劍擊",
+    "jyutping": "gim3 gik1",
+    "pinyin": "jiàn jī",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "滑冰",
+    "jyutping": "waat6 bing1",
+    "pinyin": "huá bīng",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "滑雪",
+    "jyutping": "waat6syut3",
+    "pinyin": "huá xuě",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "行山",
+    "jyutping": "hang4",
+    "pinyin": "xíng shān",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "賽跑",
+    "jyutping": "coi3 paau2",
+    "pinyin": "sài pǎo",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "接力",
+    "jyutping": "zip3lik6",
+    "pinyin": "jiē lì",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "瑜伽",
+    "jyutping": "jyu4 gaa1",
+    "pinyin": "yú jiā",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "踢球",
+    "jyutping": "tek3 kau4",
+    "pinyin": "tī qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "投球",
+    "jyutping": "tau4 kau4",
+    "pinyin": "tóu qiú",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "運動場",
+    "jyutping": "wan6dung6coeng4",
+    "pinyin": "yùn dòng chǎng",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "球拍",
+    "jyutping": "kau4paak2",
+    "pinyin": "qiú pāi",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "泳池",
+    "jyutping": "wing6ci4",
+    "pinyin": "yǒng chí",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "獎牌",
+    "jyutping": "zoeng2paai4",
+    "pinyin": "jiǎng pái",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "冠軍",
+    "jyutping": "gun3gwan1",
+    "pinyin": "guān jūn",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "比賽",
+    "jyutping": "bei2coi3",
+    "pinyin": "bǐ sài",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "隊友",
+    "jyutping": "deoi6jau5",
+    "pinyin": "duì yǒu",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "教練",
+    "jyutping": "gaau3lin6",
+    "pinyin": "jiào liàn",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "熱身",
+    "jyutping": "jit6san1",
+    "pinyin": "rè shēn",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "馬拉松",
+    "jyutping": "maa5laai1cung4",
+    "pinyin": "mǎ lā sōng",
+    "level": "junior",
+    "category": "action",
+    "topic": "sport"
+  },
+  {
+    "term": "龍眼",
+    "jyutping": "lung4ngaan5",
+    "pinyin": "lóng yǎn",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "荔枝",
+    "jyutping": "lai6zi1",
+    "pinyin": "lì zhī",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "楊桃",
+    "jyutping": "joeng4 tou4",
+    "pinyin": "yáng táo",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "石榴",
+    "jyutping": "sek6 lau4",
+    "pinyin": "shí liú",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "柚子",
+    "jyutping": "jau2 zi2",
+    "pinyin": "yòu zǐ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "山竹",
+    "jyutping": "saan1zuk1",
+    "pinyin": "shān zhú",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "榴槤",
+    "jyutping": "lau4 lin4",
+    "pinyin": "liú lián",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "藍莓",
+    "jyutping": "laam4 mui4",
+    "pinyin": "lán méi",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "覆盆子",
+    "jyutping": "fuk1 pun4 zi2",
+    "pinyin": "fù pén zǐ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "黑莓",
+    "jyutping": "hak1 mui4",
+    "pinyin": "hēi méi",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "奇異果",
+    "jyutping": "kei4ji6gwo2",
+    "pinyin": "qí yì guǒ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "百香果",
+    "jyutping": "baak3 hoeng1 gwo2",
+    "pinyin": "bǎi xiāng guǒ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "無花果",
+    "jyutping": "mou4faa1gwo2",
+    "pinyin": "wú huā guǒ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "牛油果",
+    "jyutping": "ngau4 jau4 gwo2",
+    "pinyin": "niú yóu guǒ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "椰子",
+    "jyutping": "je4zi2",
+    "pinyin": "yē zǐ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蓮藕",
+    "jyutping": "lin4 ngau5",
+    "pinyin": "lián ǒu",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "芋頭",
+    "jyutping": "wu6tau2",
+    "pinyin": "yù tóu",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蕃薯",
+    "jyutping": "faan1syu2",
+    "pinyin": "fān shǔ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "苦瓜",
+    "jyutping": "fu2gwaa1",
+    "pinyin": "kǔ guā",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "絲瓜",
+    "jyutping": "si1 gwaa1",
+    "pinyin": "sī guā",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "茄子",
+    "jyutping": "ke2zi2",
+    "pinyin": "qié zi",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "芥蘭",
+    "jyutping": "gaai3 laan4",
+    "pinyin": "jiè lán",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "白菜",
+    "jyutping": "baak6coi3",
+    "pinyin": "bái cài",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "芹菜",
+    "jyutping": "kan4 coi3",
+    "pinyin": "qín cài",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "秋葵",
+    "jyutping": "cau1 kwai4",
+    "pinyin": "qiū kuí",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "椰菜",
+    "jyutping": "je4coi3",
+    "pinyin": "yē cài",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "芽菜",
+    "jyutping": "ngaa4 coi3",
+    "pinyin": "yá cài",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "木耳",
+    "jyutping": "muk6 ji5",
+    "pinyin": "mù ěr",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "腐竹",
+    "jyutping": "fu6 zuk1",
+    "pinyin": "fǔ zhú",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "蓮子",
+    "jyutping": "lin4zi2",
+    "pinyin": "lián zǐ",
+    "level": "senior",
+    "category": "food",
+    "topic": "food"
+  },
+  {
+    "term": "豁達",
+    "jyutping": "kut3daat6",
+    "pinyin": "huō dá",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "堅毅",
+    "jyutping": "gin1ngai6",
+    "pinyin": "jiān yì",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "謙虛",
+    "jyutping": "him1heoi1",
+    "pinyin": "qiān xū",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "欣慰",
+    "jyutping": "jan1wai3",
+    "pinyin": "xīn wèi",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "憤怒",
+    "jyutping": "fan5nou6",
+    "pinyin": "fèn nù",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "憂慮",
+    "jyutping": "jau1leoi6",
+    "pinyin": "yōu lǜ",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "惶恐",
+    "jyutping": "wong4hung2",
+    "pinyin": "huáng kǒng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "寂寞",
+    "jyutping": "zik6mok6",
+    "pinyin": "jì mò",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "欣賞",
+    "jyutping": "jan1soeng2",
+    "pinyin": "xīn shǎng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "欽佩",
+    "jyutping": "jam1pui3",
+    "pinyin": "qīn pèi",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "懷念",
+    "jyutping": "waai4nim6",
+    "pinyin": "huái niàn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "眷戀",
+    "jyutping": "gyun3lyun2",
+    "pinyin": "juàn liàn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "釋懷",
+    "jyutping": "sik1waai4",
+    "pinyin": "shì huái",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "自豪",
+    "jyutping": "zi6hou4",
+    "pinyin": "zì háo",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "無奈",
+    "jyutping": "mou4noi6",
+    "pinyin": "wú nài",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "委屈",
+    "jyutping": "wai2wat1",
+    "pinyin": "wěi qu",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "慚怍",
+    "jyutping": "caam4 zok3",
+    "pinyin": "cán zuò",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "懊悔",
+    "jyutping": "ou3fui3",
+    "pinyin": "ào huǐ",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "厭煩",
+    "jyutping": "jim3faan4",
+    "pinyin": "yàn fán",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "迷惘",
+    "jyutping": "mai4mong5",
+    "pinyin": "mí wǎng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "敏感",
+    "jyutping": "man5gam2",
+    "pinyin": "mǐn gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "警覺",
+    "jyutping": "ging2gok3",
+    "pinyin": "jǐng jué",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "愉快",
+    "jyutping": "jyu4faai3",
+    "pinyin": "yú kuài",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "敬畏",
+    "jyutping": "ging3wai3",
+    "pinyin": "jìng wèi",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "從容",
+    "jyutping": "sung1jung4",
+    "pinyin": "cóng róng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "沉著",
+    "jyutping": "cam4 zyu3",
+    "pinyin": "chén zhù",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "專注",
+    "jyutping": "zyun1zyu3",
+    "pinyin": "zhuān zhù",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "投入",
+    "jyutping": "tau4jap6",
+    "pinyin": "tóu rù",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "熱忱",
+    "jyutping": "jit6 sam4",
+    "pinyin": "rè chén",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "同理心",
+    "jyutping": "tung4 lei5 sam1",
+    "pinyin": "tóng lǐ xīn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "emotion"
+  },
+  {
+    "term": "獵鷹",
+    "jyutping": "lip6 jing1",
+    "pinyin": "liè yīng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "丹頂鶴",
+    "jyutping": "daan1 ding2 hok6",
+    "pinyin": "dān dǐng hè",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "火烈鳥",
+    "jyutping": "fo2 lit6 niu5",
+    "pinyin": "huǒ liè niǎo",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "信天翁",
+    "jyutping": "seon3 tin1 jung1",
+    "pinyin": "xìn tiān wēng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "啄木鳥",
+    "jyutping": "doek3 muk6 niu5",
+    "pinyin": "zhuó mù niǎo",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "穿山甲",
+    "jyutping": "cyun1 saan1 gaap3",
+    "pinyin": "chuān shān jiǎ",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "樹懶",
+    "jyutping": "syu6 laan5",
+    "pinyin": "shù lǎn",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "水獺",
+    "jyutping": "seoi2 caat3",
+    "pinyin": "shuǐ tǎ",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "北極熊",
+    "jyutping": "bak1 gik6 hung4",
+    "pinyin": "běi jí xióng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "棕熊",
+    "jyutping": "zung1 hung4",
+    "pinyin": "zōng xióng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "野牛",
+    "jyutping": "je5 ngau4",
+    "pinyin": "yě niú",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "羚羊",
+    "jyutping": "ling4 joeng4",
+    "pinyin": "líng yáng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "麋鹿",
+    "jyutping": "mei4luk6",
+    "pinyin": "mí lù",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "野豬",
+    "jyutping": "je5zyu1",
+    "pinyin": "yě zhū",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "野兔",
+    "jyutping": "je5 tou3",
+    "pinyin": "yě tù",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "白鷺",
+    "jyutping": "baak6 lou6",
+    "pinyin": "bái lù",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鯉魚",
+    "jyutping": "lei5jyu2",
+    "pinyin": "lǐ yú",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鱸魚",
+    "jyutping": "lou4 jyu4",
+    "pinyin": "lú yú",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海獅",
+    "jyutping": "hoi2 si1",
+    "pinyin": "hǎi shī",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海象",
+    "jyutping": "hoi2 zoeng6",
+    "pinyin": "hǎi xiàng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海膽",
+    "jyutping": "hoi2daam2",
+    "pinyin": "hǎi dǎn",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "水母",
+    "jyutping": "seoi2mou5",
+    "pinyin": "shuǐ mǔ",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "海葵",
+    "jyutping": "hoi2 kwai4",
+    "pinyin": "hǎi kuí",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "螃蟹",
+    "jyutping": "pong4haai5",
+    "pinyin": "páng xiè",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "龍蝦",
+    "jyutping": "lung4haa1",
+    "pinyin": "lóng xiā",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "寄居蟹",
+    "jyutping": "gei3 geoi1 haai5",
+    "pinyin": "jì jū xiè",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蜈蚣",
+    "jyutping": "ng4gung1",
+    "pinyin": "wú gōng",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "毒蛇",
+    "jyutping": "duk6 se4",
+    "pinyin": "dú shé",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "蝙蝠",
+    "jyutping": "pin1fuk1",
+    "pinyin": "biān fú",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "鵪鶉",
+    "jyutping": "am1ceon1",
+    "pinyin": "ān chún",
+    "level": "senior",
+    "category": "animal",
+    "topic": "animal"
+  },
+  {
+    "term": "緋紅",
+    "jyutping": "fei1hung4",
+    "pinyin": "fēi hóng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "赭石",
+    "jyutping": "ze2 sek6",
+    "pinyin": "zhě shí",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "墨黑",
+    "jyutping": "mak6 hak1",
+    "pinyin": "mò hēi",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "乳白",
+    "jyutping": "jyu5 baak6",
+    "pinyin": "rǔ bái",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "雪白",
+    "jyutping": "syut3baak6",
+    "pinyin": "xuě bái",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "湛藍",
+    "jyutping": "zaam3laam4",
+    "pinyin": "zhàn lán",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "蔚藍",
+    "jyutping": "wai3laam4",
+    "pinyin": "wèi lán",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "碧綠",
+    "jyutping": "bik1 luk6",
+    "pinyin": "bì lǜ",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "翠綠",
+    "jyutping": "ceoi3 luk6",
+    "pinyin": "cuì lǜ",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "藕紫",
+    "jyutping": "ngau5 zi2",
+    "pinyin": "ǒu zǐ",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "煙紫",
+    "jyutping": "jin1 zi2",
+    "pinyin": "yān zǐ",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "黛青",
+    "jyutping": "doi6 cing1",
+    "pinyin": "dài qīng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "靛青",
+    "jyutping": "din6 cing1",
+    "pinyin": "diàn qīng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "棗紅",
+    "jyutping": "zou2hung4",
+    "pinyin": "zǎo hóng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "胭脂紅",
+    "jyutping": "jin1 zi1 hung4",
+    "pinyin": "yān zhī hóng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "橘紅",
+    "jyutping": "gwat1 hung4",
+    "pinyin": "jú hóng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "金黃",
+    "jyutping": "gam1wong4",
+    "pinyin": "jīn huáng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "鵝黃",
+    "jyutping": "ngo4 wong4",
+    "pinyin": "é huáng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "藤黃",
+    "jyutping": "tang4 wong4",
+    "pinyin": "téng huáng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "銀灰",
+    "jyutping": "ngan4 fui1",
+    "pinyin": "yín huī",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "鉛灰",
+    "jyutping": "jyun4 fui1",
+    "pinyin": "qiān huī",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "炭黑",
+    "jyutping": "taan3 hak1",
+    "pinyin": "tàn hēi",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "霧白",
+    "jyutping": "mou6 baak6",
+    "pinyin": "wù bái",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "暖黃",
+    "jyutping": "nyun5 wong4",
+    "pinyin": "nuǎn huáng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "冷白",
+    "jyutping": "laang5 baak6",
+    "pinyin": "lěng bái",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "飽和度",
+    "jyutping": "baau2 wo4 dou6",
+    "pinyin": "bǎo hé dù",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "明度",
+    "jyutping": "ming4 dou6",
+    "pinyin": "míng dù",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "色調",
+    "jyutping": "sik1diu6",
+    "pinyin": "sè diào",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "色譜",
+    "jyutping": "sik1 pou2",
+    "pinyin": "sè pǔ",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "漸層",
+    "jyutping": "zim6 cang4",
+    "pinyin": "jiàn céng",
+    "level": "senior",
+    "category": "color",
+    "topic": "color"
+  },
+  {
+    "term": "顱骨",
+    "jyutping": "lou4 gwat1",
+    "pinyin": "lú gǔ",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "顎骨",
+    "jyutping": "ngok6 gwat1",
+    "pinyin": "è gǔ",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "鎖骨",
+    "jyutping": "so2gwat1",
+    "pinyin": "suǒ gǔ",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肋骨",
+    "jyutping": "lak6gwat1",
+    "pinyin": "lèi gǔ",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "脊椎",
+    "jyutping": "zek3zeoi1",
+    "pinyin": "jǐ zhuī",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "骨盆",
+    "jyutping": "gwat1 pun4",
+    "pinyin": "gǔ pén",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "韌帶",
+    "jyutping": "jan6daai2",
+    "pinyin": "rèn dài",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "肌腱",
+    "jyutping": "gei1 gin3",
+    "pinyin": "jī jiàn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "神經",
+    "jyutping": "san4ging1",
+    "pinyin": "shén jīng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "血管",
+    "jyutping": "hyut3gun2",
+    "pinyin": "xuè guǎn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "動脈",
+    "jyutping": "dung6 mak6",
+    "pinyin": "dòng mài",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "靜脈",
+    "jyutping": "zing6mak6",
+    "pinyin": "jìng mài",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "細胞",
+    "jyutping": "sai3baau1",
+    "pinyin": "xì bāo",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "瞳孔",
+    "jyutping": "tung4hung2",
+    "pinyin": "tóng kǒng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "虹膜",
+    "jyutping": "hung4 mok6",
+    "pinyin": "hóng mó",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "眼瞼",
+    "jyutping": "ngaan5 gim2",
+    "pinyin": "yǎn jiǎn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "耳垂",
+    "jyutping": "ji5 seoi4",
+    "pinyin": "ěr chuí",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "聲帶",
+    "jyutping": "seng1daai3",
+    "pinyin": "shēng dài",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "食道",
+    "jyutping": "sik6dou6",
+    "pinyin": "shí dào",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "氣管",
+    "jyutping": "hei3gun2",
+    "pinyin": "qì guǎn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "支氣管",
+    "jyutping": "zi1 hei3 gun2",
+    "pinyin": "zhī qì guǎn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "橫膈膜",
+    "jyutping": "waang4 gaak3 mok6",
+    "pinyin": "héng gé mó",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "胰臟",
+    "jyutping": "ji4 zong6",
+    "pinyin": "yí zàng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "膀胱",
+    "jyutping": "pong4gwong1",
+    "pinyin": "páng guāng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "淋巴",
+    "jyutping": "lam4 baa1",
+    "pinyin": "lín bā",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "汗腺",
+    "jyutping": "hon6 sin3",
+    "pinyin": "hàn xiàn",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "毛孔",
+    "jyutping": "mou4hung2",
+    "pinyin": "máo kǒng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "脂肪",
+    "jyutping": "zi1fong1",
+    "pinyin": "zhī fáng",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "免疫力",
+    "jyutping": "min5jik6lik6",
+    "pinyin": "miǎn yì lì",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "新陳代謝",
+    "jyutping": "san1can4doi6ze6",
+    "pinyin": "xīn chén dài xiè",
+    "level": "senior",
+    "category": "body",
+    "topic": "body"
+  },
+  {
+    "term": "曾祖父",
+    "jyutping": "zang1 zou2 fu6",
+    "pinyin": "zēng zǔ fù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "曾祖母",
+    "jyutping": "zang1 zou2 mou5",
+    "pinyin": "zēng zǔ mǔ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "外曾祖父",
+    "jyutping": "ngoi6 zang1 zou2 fu6",
+    "pinyin": "wài zēng zǔ fù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "外曾祖母",
+    "jyutping": "ngoi6 zang1 zou2 mou5",
+    "pinyin": "wài zēng zǔ mǔ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "岳父",
+    "jyutping": "ngok6 fu6",
+    "pinyin": "yuè fù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "岳母",
+    "jyutping": "ngok6 mou5",
+    "pinyin": "yuè mǔ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "婆婆",
+    "jyutping": "po4po2",
+    "pinyin": "pó po",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "公公",
+    "jyutping": "gung1gung1",
+    "pinyin": "gōng gong",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "婆媳",
+    "jyutping": "po4 sik1",
+    "pinyin": "pó xí",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "翁婿",
+    "jyutping": "jung1 sai3",
+    "pinyin": "wēng xù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "姻親",
+    "jyutping": "jan1 can1",
+    "pinyin": "yīn qīn",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "宗親",
+    "jyutping": "zung1 can1",
+    "pinyin": "zōng qīn",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "同宗",
+    "jyutping": "tung4 zung1",
+    "pinyin": "tóng zōng",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "族譜",
+    "jyutping": "zuk6 pou2",
+    "pinyin": "zú pǔ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家訓",
+    "jyutping": "gaa1 fan3",
+    "pinyin": "jiā xùn",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家風",
+    "jyutping": "gaa1 fung1",
+    "pinyin": "jiā fēng",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家傳",
+    "jyutping": "gaa1cyun4",
+    "pinyin": "jiā chuán",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "傳承",
+    "jyutping": "cyun4sing4",
+    "pinyin": "chuán chéng",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "血緣",
+    "jyutping": "hyut3jyun4",
+    "pinyin": "xuè yuán",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "親屬",
+    "jyutping": "can1suk6",
+    "pinyin": "qīn shǔ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "撫養",
+    "jyutping": "fu2joeng5",
+    "pinyin": "fǔ yǎng",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "扶養",
+    "jyutping": "fu4 joeng5",
+    "pinyin": "fú yǎng",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "孝順",
+    "jyutping": "haau3seon6",
+    "pinyin": "xiào shùn",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "和睦",
+    "jyutping": "wo4muk6",
+    "pinyin": "hé mù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "團聚",
+    "jyutping": "tyun4zeoi6",
+    "pinyin": "tuán jù",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "離別",
+    "jyutping": "lei4bit6",
+    "pinyin": "lí bié",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "團圓",
+    "jyutping": "tyun4jyun4",
+    "pinyin": "tuán yuán",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "長輩",
+    "jyutping": "zoeng2bui3",
+    "pinyin": "cháng bèi",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "晚輩",
+    "jyutping": "maan5bui3",
+    "pinyin": "wǎn bèi",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "家族史",
+    "jyutping": "gaa1 zuk6 si2",
+    "pinyin": "jiā zú shǐ",
+    "level": "senior",
+    "category": "family",
+    "topic": "family"
+  },
+  {
+    "term": "望遠鏡",
+    "jyutping": "mong6jyun5geng3",
+    "pinyin": "wàng yuǎn jìng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "顯微鏡",
+    "jyutping": "hin2mei4geng3",
+    "pinyin": "xiǎn wēi jìng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "投影機",
+    "jyutping": "tau4jing2gei1",
+    "pinyin": "tóu yǐng jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "打印機",
+    "jyutping": "daa2 jan3 gei1",
+    "pinyin": "dǎ yìn jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "掃描器",
+    "jyutping": "sou3 miu4 hei3",
+    "pinyin": "sǎo miáo qì",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "平板電腦",
+    "jyutping": "ping4 baan2 din6 nou5",
+    "pinyin": "píng bǎn diàn nǎo",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "鍵盤",
+    "jyutping": "gin6pun4",
+    "pinyin": "jiàn pán",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "滑鼠",
+    "jyutping": "waat6syu2",
+    "pinyin": "huá shǔ",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "路由器",
+    "jyutping": "lou6 jau4 hei3",
+    "pinyin": "lù yóu qì",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "硬碟",
+    "jyutping": "ngaang6 dip6",
+    "pinyin": "yìng dié",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "記憶卡",
+    "jyutping": "gei3 jik1 kaa1",
+    "pinyin": "jì yì kǎ",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "記憶棒",
+    "jyutping": "gei3 jik1 paang5",
+    "pinyin": "jì yì bàng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "電池",
+    "jyutping": "din6ci4",
+    "pinyin": "diàn chí",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "手電筒",
+    "jyutping": "sau2 din6 tung4",
+    "pinyin": "shǒu diàn tǒng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "指南針",
+    "jyutping": "zi2naam4zam1",
+    "pinyin": "zhǐ nán zhēn",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "量角器",
+    "jyutping": "loeng4 gok3 hei3",
+    "pinyin": "liáng jiǎo qì",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "三角尺",
+    "jyutping": "saam1 gok3 cek3",
+    "pinyin": "sān jiǎo chǐ",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "訂書機",
+    "jyutping": "ding3 syu1 gei1",
+    "pinyin": "dìng shū jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "打孔機",
+    "jyutping": "daa2 hung2 gei1",
+    "pinyin": "dǎ kǒng jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "文件夾",
+    "jyutping": "man4 gin6 gaap3",
+    "pinyin": "wén jiàn jiā",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "檔案袋",
+    "jyutping": "dong2 on3 doi6",
+    "pinyin": "dàng àn dài",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "標籤機",
+    "jyutping": "biu1 cim1 gei1",
+    "pinyin": "biāo qiān jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "保險箱",
+    "jyutping": "bou2him2soeng1",
+    "pinyin": "bǎo xiǎn xiāng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "急救箱",
+    "jyutping": "gap1 gau3 soeng1",
+    "pinyin": "jí jiù xiāng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "滅火筒",
+    "jyutping": "mit6fo2tung2",
+    "pinyin": "miè huǒ tǒng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "體溫計",
+    "jyutping": "tai2 wan1 gai3",
+    "pinyin": "tǐ wēn jì",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "血壓計",
+    "jyutping": "hyut3 aat3 gai3",
+    "pinyin": "xuè yā jì",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "放大鏡",
+    "jyutping": "fong3daai6geng3",
+    "pinyin": "fàng dà jìng",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "遙控車",
+    "jyutping": "jiu4 hung3 ce1",
+    "pinyin": "yáo kòng jū",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "收音機",
+    "jyutping": "sau1jam1gei1",
+    "pinyin": "shōu yīn jī",
+    "level": "senior",
+    "category": "object",
+    "topic": "object"
+  },
+  {
+    "term": "太陽",
+    "jyutping": "taai3joeng4",
+    "pinyin": "tài yáng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "月亮",
+    "jyutping": "jyut6loeng6",
+    "pinyin": "yuè liàng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "星星",
+    "jyutping": "sing1sing1",
+    "pinyin": "xīng xīng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "天空",
+    "jyutping": "tin1hung1",
+    "pinyin": "tiān kōng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "白雲",
+    "jyutping": "baak6 wan4",
+    "pinyin": "bái yún",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "雨水",
+    "jyutping": "jyu5seoi2",
+    "pinyin": "yǔ shuǐ",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "彩虹",
+    "jyutping": "coi2hung4",
+    "pinyin": "cǎi hóng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "花朵",
+    "jyutping": "faa1do2",
+    "pinyin": "huā duǒ",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "樹木",
+    "jyutping": "syu6muk6",
+    "pinyin": "shù mù",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "草地",
+    "jyutping": "cou2dei6",
+    "pinyin": "cǎo dì",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "河流",
+    "jyutping": "ho4lau4",
+    "pinyin": "hé liú",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "海洋",
+    "jyutping": "hoi2joeng4",
+    "pinyin": "hǎi yáng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "山峰",
+    "jyutping": "saan1fung1",
+    "pinyin": "shān fēng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "石頭",
+    "jyutping": "sek6tau4",
+    "pinyin": "shí tóu",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "泥土",
+    "jyutping": "nai4tou2",
+    "pinyin": "ní tǔ",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "森林",
+    "jyutping": "sam1lam4",
+    "pinyin": "sēn lín",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "沙灘",
+    "jyutping": "saa1taan1",
+    "pinyin": "shā tān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "瀑布",
+    "jyutping": "buk6bou3",
+    "pinyin": "pù bù",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "湖泊",
+    "jyutping": "wu4bok6",
+    "pinyin": "hú bó",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "火山",
+    "jyutping": "fo2saan1",
+    "pinyin": "huǒ shān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "天氣",
+    "jyutping": "tin1hei3",
+    "pinyin": "tiān qì",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "雷電",
+    "jyutping": "leoi4din6",
+    "pinyin": "léi diàn",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "颱風",
+    "jyutping": "toi4fung1",
+    "pinyin": "tái fēng",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "霧",
+    "jyutping": "mou6",
+    "pinyin": "wù",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "露水",
+    "jyutping": "lou6seoi2",
+    "pinyin": "lù shuǐ",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "季節",
+    "jyutping": "gwai3zit3",
+    "pinyin": "jì jié",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "春天",
+    "jyutping": "ceon1tin1",
+    "pinyin": "chūn tiān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "夏天",
+    "jyutping": "haa6tin1",
+    "pinyin": "xià tiān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "秋天",
+    "jyutping": "cau1tin1",
+    "pinyin": "qiū tiān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "冬天",
+    "jyutping": "dung1tin1",
+    "pinyin": "dōng tiān",
+    "level": "senior",
+    "category": "nature",
+    "topic": "nature"
+  },
+  {
+    "term": "責任感",
+    "jyutping": "zaak3 jam6 gam2",
+    "pinyin": "zé rèn gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "使命感",
+    "jyutping": "si2 ming6 gam2",
+    "pinyin": "shǐ mìng gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "榮譽感",
+    "jyutping": "wing4 jyu6 gam2",
+    "pinyin": "róng yù gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "歸屬感",
+    "jyutping": "gwai1suk6gam2",
+    "pinyin": "guī shǔ gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "安全感",
+    "jyutping": "on1cyun4gam2",
+    "pinyin": "ān quán gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "成就感",
+    "jyutping": "sing4 zau6 gam2",
+    "pinyin": "chéng jiù gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "無力感",
+    "jyutping": "mou4 lik6 gam2",
+    "pinyin": "wú lì gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "疏離感",
+    "jyutping": "so1 lei4 gam2",
+    "pinyin": "shū lí gǎn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "自卑",
+    "jyutping": "zi6bei1",
+    "pinyin": "zì bēi",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "自責",
+    "jyutping": "zi6zaak3",
+    "pinyin": "zì zé",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "自省",
+    "jyutping": "zi6sing2",
+    "pinyin": "zì xǐng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "自律",
+    "jyutping": "zi6leot6",
+    "pinyin": "zì lǜ",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "包容",
+    "jyutping": "baau1jung4",
+    "pinyin": "bāo róng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "諒解",
+    "jyutping": "loeng6gaai2",
+    "pinyin": "liàng jiě",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "憐憫",
+    "jyutping": "lin4man5",
+    "pinyin": "lián mǐn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "焦躁",
+    "jyutping": "ziu1cou3",
+    "pinyin": "jiāo zào",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "惋惜",
+    "jyutping": "jyun2sik1",
+    "pinyin": "wǎn xī",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "感慨",
+    "jyutping": "gam2koi3",
+    "pinyin": "gǎn kǎi",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "惆悵",
+    "jyutping": "cau4coeng3",
+    "pinyin": "chóu chàng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "哀傷",
+    "jyutping": "oi1soeng1",
+    "pinyin": "āi shāng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "悲憤",
+    "jyutping": "bei1fan5",
+    "pinyin": "bēi fèn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "欣喜",
+    "jyutping": "jan1hei2",
+    "pinyin": "xīn xǐ",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "雀躍",
+    "jyutping": "zoek3joek6",
+    "pinyin": "què yuè",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "激動",
+    "jyutping": "gik1dung6",
+    "pinyin": "jī dòng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "震撼",
+    "jyutping": "zan3ham6",
+    "pinyin": "zhèn hàn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "憧憬",
+    "jyutping": "cung1ging2",
+    "pinyin": "chōng jǐng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "嚮往",
+    "jyutping": "hoeng3wong5",
+    "pinyin": "xiàng wǎng",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "執著",
+    "jyutping": "zap1zoek6",
+    "pinyin": "zhí zhù",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "果斷",
+    "jyutping": "gwo2dyun3",
+    "pinyin": "guǒ duàn",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "克制",
+    "jyutping": "hak1zai3",
+    "pinyin": "kè zhì",
+    "level": "senior",
+    "category": "emotion",
+    "topic": "advanced-emotion"
+  },
+  {
+    "term": "社區",
+    "jyutping": "se5keoi1",
+    "pinyin": "shè qū",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "醫院",
+    "jyutping": "ji1jyun2",
+    "pinyin": "yī yuàn",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "郵局",
+    "jyutping": "jau4guk2",
+    "pinyin": "yóu jú",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "超級市場",
+    "jyutping": "ciu1kap1si5coeng4",
+    "pinyin": "chāo jí shì chǎng",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "公園",
+    "jyutping": "gung1jyun2",
+    "pinyin": "gōng yuán",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "警署",
+    "jyutping": "ging2cyu5",
+    "pinyin": "jǐng shǔ",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "消防局",
+    "jyutping": "siu1fong4guk6",
+    "pinyin": "xiāo fáng jú",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "政府",
+    "jyutping": "zing3fu2",
+    "pinyin": "zhèng fǔ",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "議員",
+    "jyutping": "ji5jyun4",
+    "pinyin": "yì yuán",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "市民",
+    "jyutping": "si5man4",
+    "pinyin": "shì mín",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "義工",
+    "jyutping": "ji6gung1",
+    "pinyin": "yì gōng",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "鄰居",
+    "jyutping": "leon4geoi1",
+    "pinyin": "lín jū",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "環保",
+    "jyutping": "waan4bou2",
+    "pinyin": "huán bǎo",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "回收",
+    "jyutping": "wui4sau1",
+    "pinyin": "huí shōu",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "交通",
+    "jyutping": "gaau1tung1",
+    "pinyin": "jiāo tōng",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "規則",
+    "jyutping": "kwai1zak1",
+    "pinyin": "guī zé",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "法律",
+    "jyutping": "faat3leot6",
+    "pinyin": "fǎ lǜ",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "權利",
+    "jyutping": "kyun4lei6",
+    "pinyin": "quán lì",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "責任",
+    "jyutping": "zaak3jam6",
+    "pinyin": "zé rèn",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "文化",
+    "jyutping": "man4faa3",
+    "pinyin": "wén huà",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "歷史",
+    "jyutping": "lik6si2",
+    "pinyin": "lì shǐ",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "藝術",
+    "jyutping": "ngai6seot6",
+    "pinyin": "yì shù",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "科學",
+    "jyutping": "fo1hok6",
+    "pinyin": "kē xué",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "博物館",
+    "jyutping": "bok3mat6gun2",
+    "pinyin": "bó wù guǎn",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "劇場",
+    "jyutping": "kek6coeng4",
+    "pinyin": "jù chǎng",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "新聞",
+    "jyutping": "san1man4",
+    "pinyin": "xīn wén",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "媒體",
+    "jyutping": "mui4tai2",
+    "pinyin": "méi tǐ",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "慈善",
+    "jyutping": "ci4sin6",
+    "pinyin": "cí shàn",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "服務",
+    "jyutping": "fuk6mou6",
+    "pinyin": "fú wù",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  },
+  {
+    "term": "公共設施",
+    "jyutping": "gung1 gung6 cit3 si1",
+    "pinyin": "gōng gòng shè shī",
+    "level": "senior",
+    "category": "other",
+    "topic": "society"
+  }
+]

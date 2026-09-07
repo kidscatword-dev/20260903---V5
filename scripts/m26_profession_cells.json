@@ -1,0 +1,20 @@
+[
+  { "term": "機師", "row": 0, "column": 0 },
+  { "term": "廚師", "row": 0, "column": 1 },
+  { "term": "演員", "row": 0, "column": 3 },
+  { "term": "護士", "row": 0, "column": 4 },
+  { "term": "園丁", "row": 1, "column": 0 },
+  { "term": "建築師", "row": 1, "column": 1 },
+  { "term": "歌手", "row": 1, "column": 2 },
+  { "term": "牙醫", "row": 1, "column": 3 },
+  { "term": "農夫", "row": 1, "column": 4 },
+  { "term": "導遊", "row": 2, "column": 0 },
+  { "term": "律師", "row": 2, "column": 1 },
+  { "term": "消防員", "row": 2, "column": 2 },
+  { "term": "畫家", "row": 2, "column": 3 },
+  { "term": "運動員", "row": 2, "column": 4 },
+  { "term": "工程師", "row": 3, "column": 0 },
+  { "term": "郵差", "row": 3, "column": 3 },
+  { "term": "警察", "row": 3, "column": 4 },
+  { "term": "醫生", "row": 4, "column": 4 }
+]

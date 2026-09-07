@@ -1,0 +1,10 @@
+{
+  "package": "中文認字樂完整素材與原始碼",
+  "createdAt": "2026-08-30T13:45:15Z",
+  "includedProjectFileCount": 414,
+  "referencedCloudMedia": 3413,
+  "downloadedCloudMedia": 3410,
+  "failedCloudMedia": 3,
+  "excluded": ["node_modules", ".git", "dist", "Gradle build/cache", ".manus-logs", "APK/AAB", "ZIP archives", "keystore/private keys/passwords/secrets"],
+  "note": "task-cloud-media contains cloud media referenced by the project. Historical task attachments not referenced by the current project cannot be enumerated from the local workspace."
+}

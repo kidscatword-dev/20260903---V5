@@ -1,0 +1,509 @@
+{
+  "auditedAt": "2026-08-26T17:14:51.641Z",
+  "siteOrigin": "http://localhost:3000",
+  "total": 564,
+  "passed": 514,
+  "suspicious": [
+    {
+      "term": "家長",
+      "mapId": "M16",
+      "topic": "核心家人",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-001_808b24f9.wav",
+      "duration": null,
+      "meanDb": -79.9,
+      "maxDb": -53.9
+    },
+    {
+      "term": "家長",
+      "mapId": "M16",
+      "topic": "核心家人",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-001_ca49f242.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -66.8
+    },
+    {
+      "term": "唱歌",
+      "mapId": "M24",
+      "topic": "校園日常",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-096_b2ceba04.wav",
+      "duration": null,
+      "meanDb": -53.9,
+      "maxDb": -31.6
+    },
+    {
+      "term": "小學",
+      "mapId": "M24",
+      "topic": "校園日常",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-100_b9927313.wav",
+      "duration": null,
+      "meanDb": -55,
+      "maxDb": -30.4
+    },
+    {
+      "term": "幫助",
+      "mapId": "M24",
+      "topic": "校園日常",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-101_1d5e9ce2.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -62.7
+    },
+    {
+      "term": "幫助",
+      "mapId": "M24",
+      "topic": "校園日常",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-101_64987bd1.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -64.7
+    },
+    {
+      "term": "放學",
+      "mapId": "M24",
+      "topic": "校園日常",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-102_71f64da6.wav",
+      "duration": null,
+      "meanDb": -58.9,
+      "maxDb": -35.5
+    },
+    {
+      "term": "集隊",
+      "mapId": "M25",
+      "topic": "課堂學習與活動",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-241_3165d6d8.wav",
+      "duration": null,
+      "meanDb": -84.3,
+      "maxDb": -59.4
+    },
+    {
+      "term": "南極",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-141_ac3bc44e.wav",
+      "duration": null,
+      "meanDb": -79.5,
+      "maxDb": -52
+    },
+    {
+      "term": "狂風",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-154_41e5169b.wav",
+      "duration": null,
+      "meanDb": -87.3,
+      "maxDb": -62
+    },
+    {
+      "term": "狂風",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-154_5e43025b.wav",
+      "duration": null,
+      "meanDb": -49.2,
+      "maxDb": -25.5
+    },
+    {
+      "term": "雪",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-160_fca4faa1.wav",
+      "duration": null,
+      "meanDb": -48.1,
+      "maxDb": -23.3
+    },
+    {
+      "term": "雷",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-161_baa3a508.wav",
+      "duration": null,
+      "meanDb": -82.5,
+      "maxDb": -58.9
+    },
+    {
+      "term": "風景",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-162_3193648a.wav",
+      "duration": null,
+      "meanDb": -55.7,
+      "maxDb": -30.8
+    },
+    {
+      "term": "風景",
+      "mapId": "M28",
+      "topic": "天氣、季節與自然現象",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-162_c40c45da.wav",
+      "duration": null,
+      "meanDb": -56,
+      "maxDb": -30
+    },
+    {
+      "term": "洗手間",
+      "mapId": "M32",
+      "topic": "社區場所與城市生活",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-181_5b905cad.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -63.5
+    },
+    {
+      "term": "破壞",
+      "mapId": "M32",
+      "topic": "社區場所與城市生活",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-188_c02cc529.wav",
+      "duration": null,
+      "meanDb": -51,
+      "maxDb": -29.5
+    },
+    {
+      "term": "廣播",
+      "mapId": "M33",
+      "topic": "數碼工具與操作",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-121_b65731c1.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -66.2
+    },
+    {
+      "term": "大掃除",
+      "mapId": "M35",
+      "topic": "傳統節日",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-013_50746daa.wav",
+      "duration": null,
+      "meanDb": -66.6,
+      "maxDb": -41.5
+    },
+    {
+      "term": "福",
+      "mapId": "M35",
+      "topic": "傳統節日",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-024_ece9833e.wav",
+      "duration": null,
+      "meanDb": -51.2,
+      "maxDb": -30.2
+    },
+    {
+      "term": "花市",
+      "mapId": "M35",
+      "topic": "傳統節日",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-027_c44e7004.wav",
+      "duration": null,
+      "meanDb": -54.8,
+      "maxDb": -30.5
+    },
+    {
+      "term": "故鄉",
+      "mapId": "M36",
+      "topic": "中國文化與藝術",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-251_d16386aa.wav",
+      "duration": null,
+      "meanDb": -91,
+      "maxDb": -67.4
+    },
+    {
+      "term": "桃花",
+      "mapId": "M36",
+      "topic": "中國文化與藝術",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-256_cc4c2a3a.wav",
+      "duration": null,
+      "meanDb": -49.7,
+      "maxDb": -26.1
+    },
+    {
+      "term": "生肖",
+      "mapId": "M36",
+      "topic": "中國文化與藝術",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-261_3de3cbea.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -64.7
+    },
+    {
+      "term": "賀年",
+      "mapId": "M36",
+      "topic": "中國文化與藝術",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-271_dac07c4a.wav",
+      "duration": null,
+      "meanDb": -80.3,
+      "maxDb": -51.9
+    },
+    {
+      "term": "火藥",
+      "mapId": "M37",
+      "topic": "歷史與古蹟",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-312_b6a7162b.wav",
+      "duration": null,
+      "meanDb": -49.5,
+      "maxDb": -27.6
+    },
+    {
+      "term": "火藥",
+      "mapId": "M37",
+      "topic": "歷史與古蹟",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-312_b61f6db3.wav",
+      "duration": null,
+      "meanDb": -58.5,
+      "maxDb": -35.2
+    },
+    {
+      "term": "詩詞",
+      "mapId": "M37",
+      "topic": "歷史與古蹟",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-318_26cd1863.wav",
+      "duration": null,
+      "meanDb": -53.4,
+      "maxDb": -30.9
+    },
+    {
+      "term": "傷口",
+      "mapId": "M38",
+      "topic": "日常衛生與健康",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-035_06138a32.wav",
+      "duration": null,
+      "meanDb": -72.5,
+      "maxDb": -48.2
+    },
+    {
+      "term": "吐痰",
+      "mapId": "M38",
+      "topic": "日常衛生與健康",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-041_53bcd5e0.wav",
+      "duration": null,
+      "meanDb": -79.5,
+      "maxDb": -63.5
+    },
+    {
+      "term": "清潔",
+      "mapId": "M38",
+      "topic": "日常衛生與健康",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-050_d4b11afb.wav",
+      "duration": null,
+      "meanDb": -62.7,
+      "maxDb": -21.8
+    },
+    {
+      "term": "牙痛",
+      "mapId": "M38",
+      "topic": "日常衛生與健康",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-051_a9ef6ddf.wav",
+      "duration": null,
+      "meanDb": -91,
+      "maxDb": -67.4
+    },
+    {
+      "term": "患病",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-334_ef3d3bf8.wav",
+      "duration": null,
+      "meanDb": -49.9,
+      "maxDb": -29.3
+    },
+    {
+      "term": "服藥",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-340_bc65943e.wav",
+      "duration": null,
+      "meanDb": -52.1,
+      "maxDb": -30.6
+    },
+    {
+      "term": "服藥",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-340_8af27cbf.wav",
+      "duration": null,
+      "meanDb": -50.8,
+      "maxDb": -25.4
+    },
+    {
+      "term": "檢查",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-341_bb22d217.wav",
+      "duration": null,
+      "meanDb": -81.9,
+      "maxDb": -55.2
+    },
+    {
+      "term": "檢查",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-341_da675efe.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -63.9
+    },
+    {
+      "term": "細菌",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-351_82a96ba6.wav",
+      "duration": null,
+      "meanDb": -51.8,
+      "maxDb": -25.6
+    },
+    {
+      "term": "細菌",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-351_7bb382b0.wav",
+      "duration": null,
+      "meanDb": -53.8,
+      "maxDb": -30.6
+    },
+    {
+      "term": "預防",
+      "mapId": "M39",
+      "topic": "就醫與疾病預防",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-361_1a5b2549.wav",
+      "duration": null,
+      "meanDb": -91,
+      "maxDb": -66.8
+    },
+    {
+      "term": "皮鞋",
+      "mapId": "M40",
+      "topic": "服裝與穿戴",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-081_61f676ad.wav",
+      "duration": null,
+      "meanDb": -81.9,
+      "maxDb": -55.3
+    },
+    {
+      "term": "節約",
+      "mapId": "M41",
+      "topic": "社區、服務與生活延伸",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-371_50430246.wav",
+      "duration": null,
+      "meanDb": -81.9,
+      "maxDb": -57.1
+    },
+    {
+      "term": "付款",
+      "mapId": "M41",
+      "topic": "社區、服務與生活延伸",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-381_97423e29.wav",
+      "duration": null,
+      "meanDb": -51.8,
+      "maxDb": -28.1
+    },
+    {
+      "term": "付款",
+      "mapId": "M41",
+      "topic": "社區、服務與生活延伸",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-381_f0c1189e.wav",
+      "duration": null,
+      "meanDb": -91,
+      "maxDb": -80.8
+    },
+    {
+      "term": "口罩",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-197_0fb59837.wav",
+      "duration": null,
+      "meanDb": -48.3,
+      "maxDb": -27.5
+    },
+    {
+      "term": "鈕扣",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-201_ee3ed858.wav",
+      "duration": null,
+      "meanDb": -90.3,
+      "maxDb": -65.7
+    },
+    {
+      "term": "鈕扣",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-201_172fb7e1.wav",
+      "duration": null,
+      "meanDb": -91,
+      "maxDb": -66.2
+    },
+    {
+      "term": "髮夾",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "cantonese",
+      "source": "/manus-storage/yue-203_96a359f4.wav",
+      "duration": null,
+      "meanDb": -52.8,
+      "maxDb": -25.2
+    },
+    {
+      "term": "髮夾",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-203_b8d736c8.wav",
+      "duration": null,
+      "meanDb": -53.2,
+      "maxDb": -30
+    },
+    {
+      "term": "手鐲",
+      "mapId": "M42",
+      "topic": "服裝、穿戴與衣物製作",
+      "language": "mandarin",
+      "source": "/manus-storage/cmn-221_3220cc74.wav",
+      "duration": null,
+      "meanDb": -84.3,
+      "maxDb": -58.7
+    }
+  ],
+  "failed": []
+}

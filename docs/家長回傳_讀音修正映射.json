@@ -1,0 +1,2452 @@
+[
+  {
+    "term": "氣候",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-001-cantonese_ee05aa45.mp3"
+  },
+  {
+    "term": "氣候",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-002-mandarin_e6a83549.mp3"
+  },
+  {
+    "term": "氣溫",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-003-cantonese_f5d70e17.mp3"
+  },
+  {
+    "term": "氣溫",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-004-mandarin_f5762515.mp3"
+  },
+  {
+    "term": "污染",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-005-cantonese_a46aeba7.mp3"
+  },
+  {
+    "term": "污染",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-006-mandarin_4204381c.mp3"
+  },
+  {
+    "term": "七夕",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-007-cantonese_3623f17e.mp3"
+  },
+  {
+    "term": "七夕",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-008-mandarin_70cb729a.mp3"
+  },
+  {
+    "term": "中樂",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-009-cantonese_184ef2b9.mp3"
+  },
+  {
+    "term": "中樂",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-010-mandarin_7e3f5f8f.mp3"
+  },
+  {
+    "term": "佳節",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-011-cantonese_78b1343d.mp3"
+  },
+  {
+    "term": "佳節",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-012-mandarin_47182a00.mp3"
+  },
+  {
+    "term": "利是",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-013-cantonese_e5d8726d.mp3"
+  },
+  {
+    "term": "利是",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-014-mandarin_11baf2a9.mp3"
+  },
+  {
+    "term": "古代",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-015-cantonese_f26fb7cf.mp3"
+  },
+  {
+    "term": "古代",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-016-mandarin_30d937fb.mp3"
+  },
+  {
+    "term": "名勝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-017-cantonese_c05ccef4.mp3"
+  },
+  {
+    "term": "名勝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-018-mandarin_c2784c74.mp3"
+  },
+  {
+    "term": "平安",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-019-cantonese_4d6c1c35.mp3"
+  },
+  {
+    "term": "平安",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-020-mandarin_2b9e97e6.mp3"
+  },
+  {
+    "term": "年糕",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-021-cantonese_ff1c38c1.mp3"
+  },
+  {
+    "term": "年糕",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-022-mandarin_3aacd8c1.mp3"
+  },
+  {
+    "term": "恭喜",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-023-cantonese_98c415bd.mp3"
+  },
+  {
+    "term": "恭喜",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-024-mandarin_e82a81a2.mp3"
+  },
+  {
+    "term": "拜年",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-025-cantonese_a2c8a9fa.mp3"
+  },
+  {
+    "term": "拜年",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-026-mandarin_4648aa93.mp3"
+  },
+  {
+    "term": "新年",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-027-cantonese_5b61cdd9.mp3"
+  },
+  {
+    "term": "新年",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-028-mandarin_ee547703.mp3"
+  },
+  {
+    "term": "月餅",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-029-cantonese_268c6a82.mp3"
+  },
+  {
+    "term": "月餅",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-030-mandarin_e6b06132.mp3"
+  },
+  {
+    "term": "福",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-031-cantonese_c4b4db3b.mp3"
+  },
+  {
+    "term": "福",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-032-mandarin_eb42b674.mp3"
+  },
+  {
+    "term": "節日",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-033-cantonese_b840692f.mp3"
+  },
+  {
+    "term": "節日",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-034-mandarin_2ece9297.mp3"
+  },
+  {
+    "term": "糖果",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-035-cantonese_53798194.mp3"
+  },
+  {
+    "term": "糖果",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-036-mandarin_b5815d00.mp3"
+  },
+  {
+    "term": "花市",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-037-cantonese_88507c75.mp3"
+  },
+  {
+    "term": "花市",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-038-mandarin_02b07327.mp3"
+  },
+  {
+    "term": "過年",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-039-cantonese_b2108cb8.mp3"
+  },
+  {
+    "term": "過年",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-040-mandarin_a87f623e.mp3"
+  },
+  {
+    "term": "除夕",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-041-cantonese_ad30c379.mp3"
+  },
+  {
+    "term": "除夕",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-042-mandarin_a4d081b9.mp3"
+  },
+  {
+    "term": "鮮花",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-043-cantonese_d19c9c01.mp3"
+  },
+  {
+    "term": "鮮花",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-044-mandarin_4250a25e.mp3"
+  },
+  {
+    "term": "健康",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-045-cantonese_55f3369e.mp3"
+  },
+  {
+    "term": "健康",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-046-mandarin_ff5c8b45.mp3"
+  },
+  {
+    "term": "傳染",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-047-cantonese_19fdc0bd.mp3"
+  },
+  {
+    "term": "傳染",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-048-mandarin_8bc9b30b.mp3"
+  },
+  {
+    "term": "傷風",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-049-cantonese_031d8526.mp3"
+  },
+  {
+    "term": "傷風",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-050-mandarin_084d8266.mp3"
+  },
+  {
+    "term": "刷牙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-051-cantonese_35489737.mp3"
+  },
+  {
+    "term": "刷牙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-052-mandarin_08b9a421.mp3"
+  },
+  {
+    "term": "受傷",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-053-cantonese_79db718b.mp3"
+  },
+  {
+    "term": "受傷",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-054-mandarin_d2ce0bdb.mp3"
+  },
+  {
+    "term": "吐痰",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-055-cantonese_7792fca2.mp3"
+  },
+  {
+    "term": "吐痰",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-056-mandarin_c8a58d28.mp3"
+  },
+  {
+    "term": "咳嗽",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-057-cantonese_d978f28f.mp3"
+  },
+  {
+    "term": "咳嗽",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-058-mandarin_e3466601.mp3"
+  },
+  {
+    "term": "問候",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-059-cantonese_c9d236f7.mp3"
+  },
+  {
+    "term": "問候",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-060-mandarin_9564b593.mp3"
+  },
+  {
+    "term": "安全",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-061-cantonese_dc1c8e02.mp3"
+  },
+  {
+    "term": "安全",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-062-mandarin_cb9393c5.mp3"
+  },
+  {
+    "term": "急救",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-063-cantonese_ede311a0.mp3"
+  },
+  {
+    "term": "急救",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-064-mandarin_bbec7a60.mp3"
+  },
+  {
+    "term": "感冒",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-065-cantonese_345f76a1.mp3"
+  },
+  {
+    "term": "感冒",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-066-mandarin_08a103c4.mp3"
+  },
+  {
+    "term": "手巾",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-067-cantonese_de105aa0.mp3"
+  },
+  {
+    "term": "手巾",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-068-mandarin_5d56a7eb.mp3"
+  },
+  {
+    "term": "洗澡",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-069-cantonese_b3761f8e.mp3"
+  },
+  {
+    "term": "洗澡",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-070-mandarin_c21c6608.mp3"
+  },
+  {
+    "term": "牙膏",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-071-cantonese_bf0a61ef.mp3"
+  },
+  {
+    "term": "牙膏",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-072-mandarin_9442500a.mp3"
+  },
+  {
+    "term": "生病",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-073-cantonese_6f00c7d9.mp3"
+  },
+  {
+    "term": "生病",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-074-mandarin_2dcbe30d.mp3"
+  },
+  {
+    "term": "看病",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-075-cantonese_355a2fcd.mp3"
+  },
+  {
+    "term": "看病",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-076-mandarin_e87f34c1.mp3"
+  },
+  {
+    "term": "睡眠",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-077-cantonese_d518e4e9.mp3"
+  },
+  {
+    "term": "睡眠",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-078-mandarin_89bb987d.mp3"
+  },
+  {
+    "term": "肚痛",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-079-cantonese_78a5594a.mp3"
+  },
+  {
+    "term": "肚痛",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-080-mandarin_6187ff44.mp3"
+  },
+  {
+    "term": "蛀牙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-081-cantonese_90dcd544.mp3"
+  },
+  {
+    "term": "蛀牙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-082-mandarin_12242cc9.mp3"
+  },
+  {
+    "term": "運動",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-083-cantonese_9dea82ae.mp3"
+  },
+  {
+    "term": "運動",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-084-mandarin_8962719f.mp3"
+  },
+  {
+    "term": "便服",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-085-cantonese_c08e90ae.mp3"
+  },
+  {
+    "term": "便服",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-086-mandarin_8798338a.mp3"
+  },
+  {
+    "term": "制服",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-087-cantonese_bdbd0a1a.mp3"
+  },
+  {
+    "term": "制服",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-088-mandarin_7a02f9af.mp3"
+  },
+  {
+    "term": "圍巾",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-089-cantonese_0bce16b3.mp3"
+  },
+  {
+    "term": "圍巾",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-090-mandarin_923fc99c.mp3"
+  },
+  {
+    "term": "外套",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-091-cantonese_55f718f3.mp3"
+  },
+  {
+    "term": "外套",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-092-mandarin_3e6c3040.mp3"
+  },
+  {
+    "term": "大衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-093-cantonese_9f6a1aaf.mp3"
+  },
+  {
+    "term": "大衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-094-mandarin_f93aaf5f.mp3"
+  },
+  {
+    "term": "布鞋",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-095-cantonese_b7eb306c.mp3"
+  },
+  {
+    "term": "布鞋",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-096-mandarin_4a905cf1.mp3"
+  },
+  {
+    "term": "手套",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-097-cantonese_2a29a59d.mp3"
+  },
+  {
+    "term": "手套",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-098-mandarin_ba4f34ea.mp3"
+  },
+  {
+    "term": "打扮",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-099-cantonese_facbb236.mp3"
+  },
+  {
+    "term": "打扮",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-100-mandarin_951e0d93.mp3"
+  },
+  {
+    "term": "毛衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-101-cantonese_b765bc82.mp3"
+  },
+  {
+    "term": "毛衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-102-mandarin_a949651e.mp3"
+  },
+  {
+    "term": "泳衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-103-cantonese_1db3bd66.mp3"
+  },
+  {
+    "term": "泳衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-104-mandarin_05fdbfbb.mp3"
+  },
+  {
+    "term": "浴袍",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-105-cantonese_c8ca7b94.mp3"
+  },
+  {
+    "term": "浴袍",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-106-mandarin_4136ee48.mp3"
+  },
+  {
+    "term": "燙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-107-cantonese_190469b4.mp3"
+  },
+  {
+    "term": "燙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-108-mandarin_05c60e9f.mp3"
+  },
+  {
+    "term": "皮帶",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-109-cantonese_98772eef.mp3"
+  },
+  {
+    "term": "皮帶",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-110-mandarin_3fec7c61.mp3"
+  },
+  {
+    "term": "皮鞋",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-111-cantonese_02911011.mp3"
+  },
+  {
+    "term": "皮鞋",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-112-mandarin_cc9317e8.mp3"
+  },
+  {
+    "term": "睡衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-113-cantonese_346c09a6.mp3"
+  },
+  {
+    "term": "睡衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-114-mandarin_e0ff34f6.mp3"
+  },
+  {
+    "term": "穿著",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-115-cantonese_f37a1fad.mp3"
+  },
+  {
+    "term": "穿著",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-116-mandarin_7938755a.mp3"
+  },
+  {
+    "term": "雨衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-117-cantonese_eccbcd7c.mp3"
+  },
+  {
+    "term": "雨衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-118-mandarin_917fef96.mp3"
+  },
+  {
+    "term": "鞋",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-119-cantonese_0bb3c0ec.mp3"
+  },
+  {
+    "term": "鞋",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-120-mandarin_14e02458.mp3"
+  },
+  {
+    "term": "作文",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-121-cantonese_e11031d1.mp3"
+  },
+  {
+    "term": "作文",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-122-mandarin_be12a88c.mp3"
+  },
+  {
+    "term": "值日生",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-123-cantonese_f653db6b.mp3"
+  },
+  {
+    "term": "值日生",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-124-mandarin_a10784d7.mp3"
+  },
+  {
+    "term": "友誼",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-125-cantonese_a5f21cc9.mp3"
+  },
+  {
+    "term": "友誼",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-126-mandarin_c53c6d68.mp3"
+  },
+  {
+    "term": "壁報",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-127-cantonese_4971dfdd.mp3"
+  },
+  {
+    "term": "壁報",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-128-mandarin_162cbc8a.mp3"
+  },
+  {
+    "term": "學期",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-129-cantonese_7030ebc1.mp3"
+  },
+  {
+    "term": "學期",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-130-mandarin_9ed0228e.mp3"
+  },
+  {
+    "term": "放學",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-131-cantonese_fa4e55f8.mp3"
+  },
+  {
+    "term": "放學",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-132-mandarin_488a5600.mp3"
+  },
+  {
+    "term": "旅行",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-133-cantonese_6abe2ebd.mp3"
+  },
+  {
+    "term": "旅行",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-134-mandarin_f538a243.mp3"
+  },
+  {
+    "term": "暑假",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-135-cantonese_36097dc1.mp3"
+  },
+  {
+    "term": "暑假",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-136-mandarin_66d48ed9.mp3"
+  },
+  {
+    "term": "校車",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-137-cantonese_8c2ca9f1.mp3"
+  },
+  {
+    "term": "校車",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-138-mandarin_1cb00a83.mp3"
+  },
+  {
+    "term": "說話",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-139-cantonese_3e89c7a8.mp3"
+  },
+  {
+    "term": "說話",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-140-mandarin_6dee4142.mp3"
+  },
+  {
+    "term": "開學",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-141-cantonese_a0dac931.mp3"
+  },
+  {
+    "term": "開學",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-142-mandarin_fc79af95.mp3"
+  },
+  {
+    "term": "劇集",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-143-cantonese_92b8cfd7.mp3"
+  },
+  {
+    "term": "劇集",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-144-mandarin_9f5a2a67.mp3"
+  },
+  {
+    "term": "動畫",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-145-cantonese_b264b816.mp3"
+  },
+  {
+    "term": "動畫",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-146-mandarin_e8dc03b0.mp3"
+  },
+  {
+    "term": "卡通",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-147-cantonese_d3638032.mp3"
+  },
+  {
+    "term": "卡通",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-148-mandarin_f3051ad2.mp3"
+  },
+  {
+    "term": "印刷",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-149-cantonese_ce5e2b6d.mp3"
+  },
+  {
+    "term": "印刷",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-150-mandarin_66ba3651.mp3"
+  },
+  {
+    "term": "報章",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-151-cantonese_763851e5.mp3"
+  },
+  {
+    "term": "報章",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-152-mandarin_278ab77b.mp3"
+  },
+  {
+    "term": "娛樂",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-153-cantonese_b281f785.mp3"
+  },
+  {
+    "term": "娛樂",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-154-mandarin_977ac7de.mp3"
+  },
+  {
+    "term": "存檔",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-155-cantonese_868e33f9.mp3"
+  },
+  {
+    "term": "存檔",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-156-mandarin_58addf82.mp3"
+  },
+  {
+    "term": "安裝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-157-cantonese_9bad4425.mp3"
+  },
+  {
+    "term": "安裝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-158-mandarin_9683499a.mp3"
+  },
+  {
+    "term": "宣傳",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-159-cantonese_b92d41e5.mp3"
+  },
+  {
+    "term": "宣傳",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-160-mandarin_5c1cacd8.mp3"
+  },
+  {
+    "term": "廣告",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-161-cantonese_59cd0a4f.mp3"
+  },
+  {
+    "term": "廣告",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-162-mandarin_0c777685.mp3"
+  },
+  {
+    "term": "廣播",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-163-cantonese_542826a0.mp3"
+  },
+  {
+    "term": "廣播",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-164-mandarin_a9d97326.mp3"
+  },
+  {
+    "term": "手機",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-165-cantonese_5f65b292.mp3"
+  },
+  {
+    "term": "手機",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-166-mandarin_87111456.mp3"
+  },
+  {
+    "term": "拍攝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-167-cantonese_1e400890.mp3"
+  },
+  {
+    "term": "拍攝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-168-mandarin_7554b6a6.mp3"
+  },
+  {
+    "term": "步驟",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-169-cantonese_26766e0e.mp3"
+  },
+  {
+    "term": "步驟",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-170-mandarin_3525641a.mp3"
+  },
+  {
+    "term": "漫畫",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-171-cantonese_892bb18f.mp3"
+  },
+  {
+    "term": "漫畫",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-172-mandarin_796856a0.mp3"
+  },
+  {
+    "term": "照片",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-173-cantonese_3945d067.mp3"
+  },
+  {
+    "term": "照片",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-174-mandarin_7c925ea2.mp3"
+  },
+  {
+    "term": "電影",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-175-cantonese_5d9518a5.mp3"
+  },
+  {
+    "term": "電影",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-176-mandarin_accf132a.mp3"
+  },
+  {
+    "term": "北極",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-177-cantonese_5f6c2d4b.mp3"
+  },
+  {
+    "term": "北極",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-178-mandarin_f31d1724.mp3"
+  },
+  {
+    "term": "南極",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-179-cantonese_4bb7926d.mp3"
+  },
+  {
+    "term": "南極",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-180-mandarin_4c6bcd49.mp3"
+  },
+  {
+    "term": "地理",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-181-cantonese_255b6f3a.mp3"
+  },
+  {
+    "term": "地理",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-182-mandarin_25033ad0.mp3"
+  },
+  {
+    "term": "寒冷",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-183-cantonese_bac329a4.mp3"
+  },
+  {
+    "term": "寒冷",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-184-mandarin_d551f1fd.mp3"
+  },
+  {
+    "term": "平原",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-185-cantonese_3dab2334.mp3"
+  },
+  {
+    "term": "平原",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-186-mandarin_1bc2b1bb.mp3"
+  },
+  {
+    "term": "星球",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-187-cantonese_56a8d934.mp3"
+  },
+  {
+    "term": "星球",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-188-mandarin_2100063c.mp3"
+  },
+  {
+    "term": "晝夜",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-189-cantonese_832f7819.mp3"
+  },
+  {
+    "term": "晝夜",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-190-mandarin_ed756be6.mp3"
+  },
+  {
+    "term": "晴朗",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-191-cantonese_e54621b1.mp3"
+  },
+  {
+    "term": "晴朗",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-192-mandarin_4058d086.mp3"
+  },
+  {
+    "term": "林木",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-193-cantonese_f9370230.mp3"
+  },
+  {
+    "term": "林木",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-194-mandarin_ed032c7e.mp3"
+  },
+  {
+    "term": "沙漠",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-195-cantonese_b66607cd.mp3"
+  },
+  {
+    "term": "沙漠",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-196-mandarin_c8b39616.mp3"
+  },
+  {
+    "term": "炎熱",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-197-cantonese_b160a877.mp3"
+  },
+  {
+    "term": "炎熱",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-198-mandarin_5626bee7.mp3"
+  },
+  {
+    "term": "閃電",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-199-cantonese_e463c697.mp3"
+  },
+  {
+    "term": "閃電",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-200-mandarin_c5647003.mp3"
+  },
+  {
+    "term": "陰天",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-201-cantonese_29485929.mp3"
+  },
+  {
+    "term": "陰天",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-202-mandarin_3b86f9f5.mp3"
+  },
+  {
+    "term": "陸地",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-203-cantonese_c9b83d60.mp3"
+  },
+  {
+    "term": "陸地",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-204-mandarin_9b40a9e7.mp3"
+  },
+  {
+    "term": "陽光",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-205-cantonese_f9d7f8f3.mp3"
+  },
+  {
+    "term": "陽光",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-206-mandarin_cbb32f81.mp3"
+  },
+  {
+    "term": "雪",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-207-cantonese_63d73500.mp3"
+  },
+  {
+    "term": "雪",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-208-mandarin_05b3632e.mp3"
+  },
+  {
+    "term": "雷",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-209-cantonese_1a0ef594.mp3"
+  },
+  {
+    "term": "雷",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-210-mandarin_33d5aa1d.mp3"
+  },
+  {
+    "term": "便利店",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-211-cantonese_4f99de7b.mp3"
+  },
+  {
+    "term": "便利店",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-212-mandarin_bd34412c.mp3"
+  },
+  {
+    "term": "商場",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-213-cantonese_33211b5c.mp3"
+  },
+  {
+    "term": "商場",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-214-mandarin_ce22f628.mp3"
+  },
+  {
+    "term": "善用",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-215-cantonese_f6cd3738.mp3"
+  },
+  {
+    "term": "善用",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-216-mandarin_28878ea7.mp3"
+  },
+  {
+    "term": "噪音",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-217-cantonese_50d3de17.mp3"
+  },
+  {
+    "term": "噪音",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-218-mandarin_a02f7e01.mp3"
+  },
+  {
+    "term": "垃圾站",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-219-cantonese_3cb80247.mp3"
+  },
+  {
+    "term": "垃圾站",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-220-mandarin_f9e65560.mp3"
+  },
+  {
+    "term": "康樂",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-221-cantonese_e8504b91.mp3"
+  },
+  {
+    "term": "康樂",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-222-mandarin_a587f66b.mp3"
+  },
+  {
+    "term": "循環",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-223-cantonese_e894f3ee.mp3"
+  },
+  {
+    "term": "循環",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-224-mandarin_1165bb1e.mp3"
+  },
+  {
+    "term": "戲院",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-225-cantonese_78b5e220.mp3"
+  },
+  {
+    "term": "戲院",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-226-mandarin_2fd0e1ca.mp3"
+  },
+  {
+    "term": "改善",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-227-cantonese_b9db740b.mp3"
+  },
+  {
+    "term": "改善",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-228-mandarin_1140c745.mp3"
+  },
+  {
+    "term": "暫停",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-229-cantonese_42e2f928.mp3"
+  },
+  {
+    "term": "暫停",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-230-mandarin_9c4917db.mp3"
+  },
+  {
+    "term": "水電",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-231-cantonese_30665c2f.mp3"
+  },
+  {
+    "term": "水電",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-232-mandarin_85700aec.mp3"
+  },
+  {
+    "term": "洗手間",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-233-cantonese_1bb84229.mp3"
+  },
+  {
+    "term": "洗手間",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-234-mandarin_6c5ec812.mp3"
+  },
+  {
+    "term": "浪費",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-235-cantonese_92e8852c.mp3"
+  },
+  {
+    "term": "浪費",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-236-mandarin_e551a9fa.mp3"
+  },
+  {
+    "term": "深夜",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-237-cantonese_7f7d8e0a.mp3"
+  },
+  {
+    "term": "深夜",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-238-mandarin_b01636c0.mp3"
+  },
+  {
+    "term": "清晨",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-239-cantonese_dee35674.mp3"
+  },
+  {
+    "term": "清晨",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-240-mandarin_48f8f510.mp3"
+  },
+  {
+    "term": "清理",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-241-cantonese_3ec6ef8c.mp3"
+  },
+  {
+    "term": "清理",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-242-mandarin_89d94a0b.mp3"
+  },
+  {
+    "term": "游泳池",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-243-cantonese_943b77bf.mp3"
+  },
+  {
+    "term": "游泳池",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-244-mandarin_926e99df.mp3"
+  },
+  {
+    "term": "百貨公司",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-245-cantonese_b7081e37.mp3"
+  },
+  {
+    "term": "百貨公司",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-246-mandarin_8df7c496.mp3"
+  },
+  {
+    "term": "破壞",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-247-cantonese_0607197a.mp3"
+  },
+  {
+    "term": "破壞",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-248-mandarin_44e468b0.mp3"
+  },
+  {
+    "term": "街市",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-249-cantonese_4759ff65.mp3"
+  },
+  {
+    "term": "街市",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-250-mandarin_bf6ff79f.mp3"
+  },
+  {
+    "term": "餅店",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-251-cantonese_ee6800c9.mp3"
+  },
+  {
+    "term": "餅店",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-252-mandarin_0d04de12.mp3"
+  },
+  {
+    "term": "髮廊",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-253-cantonese_4dd1fa98.mp3"
+  },
+  {
+    "term": "髮廊",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-254-mandarin_85fd72dd.mp3"
+  },
+  {
+    "term": "校裙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-255-cantonese_891321d4.mp3"
+  },
+  {
+    "term": "校裙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-256-mandarin_127b5c32.mp3"
+  },
+  {
+    "term": "校褲",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-257-cantonese_c7453532.mp3"
+  },
+  {
+    "term": "校褲",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-258-mandarin_2f5686cb.mp3"
+  },
+  {
+    "term": "短褲",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-259-cantonese_b16f7ce2.mp3"
+  },
+  {
+    "term": "短褲",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-260-mandarin_e17974ed.mp3"
+  },
+  {
+    "term": "長褲",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-261-cantonese_0c32a6f2.mp3"
+  },
+  {
+    "term": "長褲",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-262-mandarin_49002592.mp3"
+  },
+  {
+    "term": "衣架",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-263-cantonese_c73fee94.mp3"
+  },
+  {
+    "term": "衣架",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-264-mandarin_0b9b2182.mp3"
+  },
+  {
+    "term": "圍裙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-265-cantonese_a0e93fbc.mp3"
+  },
+  {
+    "term": "圍裙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-266-mandarin_dc90aa4f.mp3"
+  },
+  {
+    "term": "雨靴",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-267-cantonese_0173998e.mp3"
+  },
+  {
+    "term": "雨靴",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-268-mandarin_bd07ee32.mp3"
+  },
+  {
+    "term": "手袋",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-269-cantonese_cc1838de.mp3"
+  },
+  {
+    "term": "手袋",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-270-mandarin_17ff7635.mp3"
+  },
+  {
+    "term": "運動衣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-271-cantonese_4d1624ca.mp3"
+  },
+  {
+    "term": "運動衣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-272-mandarin_1ccde57e.mp3"
+  },
+  {
+    "term": "拉鏈",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-273-cantonese_646b8f15.mp3"
+  },
+  {
+    "term": "拉鏈",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-274-mandarin_fa4340a8.mp3"
+  },
+  {
+    "term": "西裝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-275-cantonese_51085507.mp3"
+  },
+  {
+    "term": "西裝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-276-mandarin_a2baa619.mp3"
+  },
+  {
+    "term": "領帶",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-277-cantonese_775c322a.mp3"
+  },
+  {
+    "term": "領帶",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-278-mandarin_aaae87ae.mp3"
+  },
+  {
+    "term": "衣袖",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-279-cantonese_ecab9de6.mp3"
+  },
+  {
+    "term": "衣袖",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-280-mandarin_50f4c0f4.mp3"
+  },
+  {
+    "term": "領口",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-281-cantonese_cd9a219d.mp3"
+  },
+  {
+    "term": "領口",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-282-mandarin_f7cc2131.mp3"
+  },
+  {
+    "term": "布料",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-283-cantonese_a72a740c.mp3"
+  },
+  {
+    "term": "布料",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-284-mandarin_ccfd7dad.mp3"
+  },
+  {
+    "term": "針線",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-285-cantonese_1165e419.mp3"
+  },
+  {
+    "term": "針線",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-286-mandarin_e7031908.mp3"
+  },
+  {
+    "term": "泳鏡",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-287-cantonese_670d8d09.mp3"
+  },
+  {
+    "term": "泳鏡",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-288-mandarin_8745d651.mp3"
+  },
+  {
+    "term": "耳環",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-289-cantonese_21692150.mp3"
+  },
+  {
+    "term": "耳環",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-290-mandarin_d6ce0da8.mp3"
+  },
+  {
+    "term": "手鐲",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-291-cantonese_122b9281.mp3"
+  },
+  {
+    "term": "手鐲",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-292-mandarin_2fea5c2c.mp3"
+  },
+  {
+    "term": "時裝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-293-cantonese_575e8f47.mp3"
+  },
+  {
+    "term": "時裝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-294-mandarin_8fd35039.mp3"
+  },
+  {
+    "term": "常識",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-295-cantonese_efb53706.mp3"
+  },
+  {
+    "term": "常識",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-296-mandarin_1f1268a9.mp3"
+  },
+  {
+    "term": "教員室",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-297-cantonese_03005400.mp3"
+  },
+  {
+    "term": "教員室",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-298-mandarin_99401b55.mp3"
+  },
+  {
+    "term": "早會",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-299-cantonese_d7cbed58.mp3"
+  },
+  {
+    "term": "早會",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-300-mandarin_8a939560.mp3"
+  },
+  {
+    "term": "校工",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-301-cantonese_d20c764d.mp3"
+  },
+  {
+    "term": "校工",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-302-mandarin_aa371ebf.mp3"
+  },
+  {
+    "term": "校規",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-303-cantonese_2a70b714.mp3"
+  },
+  {
+    "term": "校規",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-304-mandarin_2bea74d9.mp3"
+  },
+  {
+    "term": "獎勵",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-305-cantonese_64de978a.mp3"
+  },
+  {
+    "term": "獎勵",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-306-mandarin_ff60b008.mp3"
+  },
+  {
+    "term": "班主任",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-307-cantonese_d2a39160.mp3"
+  },
+  {
+    "term": "班主任",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-308-mandarin_09c41546.mp3"
+  },
+  {
+    "term": "畢業",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-309-cantonese_271b139a.mp3"
+  },
+  {
+    "term": "畢業",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-310-mandarin_3f2ae329.mp3"
+  },
+  {
+    "term": "秩序",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-311-cantonese_42488b8f.mp3"
+  },
+  {
+    "term": "秩序",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-312-mandarin_4c8a3dac.mp3"
+  },
+  {
+    "term": "課外書",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-313-cantonese_e53d881e.mp3"
+  },
+  {
+    "term": "課外書",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-314-mandarin_74763475.mp3"
+  },
+  {
+    "term": "週會",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-315-cantonese_6a7ac92f.mp3"
+  },
+  {
+    "term": "週會",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-316-mandarin_727cf7cb.mp3"
+  },
+  {
+    "term": "遲到",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-317-cantonese_2915c4b4.mp3"
+  },
+  {
+    "term": "遲到",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-318-mandarin_b9b7eb9a.mp3"
+  },
+  {
+    "term": "遵守",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-319-cantonese_17306e2a.mp3"
+  },
+  {
+    "term": "遵守",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-320-mandarin_6bfe9468.mp3"
+  },
+  {
+    "term": "開放日",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-321-cantonese_4f818b74.mp3"
+  },
+  {
+    "term": "開放日",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-322-mandarin_bd64dc2c.mp3"
+  },
+  {
+    "term": "集隊",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-323-cantonese_57c2d77f.mp3"
+  },
+  {
+    "term": "集隊",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-324-mandarin_bd191e6e.mp3"
+  },
+  {
+    "term": "體育",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-325-cantonese_49bb7167.mp3"
+  },
+  {
+    "term": "體育",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-326-mandarin_21bb57a7.mp3"
+  },
+  {
+    "term": "國家",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-327-cantonese_2906874e.mp3"
+  },
+  {
+    "term": "國家",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-328-mandarin_8eab6aa7.mp3"
+  },
+  {
+    "term": "國畫",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-329-cantonese_63cffcd8.mp3"
+  },
+  {
+    "term": "國畫",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-330-mandarin_96fea57a.mp3"
+  },
+  {
+    "term": "年宵",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-331-cantonese_c8d579d2.mp3"
+  },
+  {
+    "term": "年宵",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-332-mandarin_441f94e2.mp3"
+  },
+  {
+    "term": "建築",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-333-cantonese_7fe5c34e.mp3"
+  },
+  {
+    "term": "建築",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-334-mandarin_28fd0827.mp3"
+  },
+  {
+    "term": "慶祝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-335-cantonese_fcfa0494.mp3"
+  },
+  {
+    "term": "慶祝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-336-mandarin_71238033.mp3"
+  },
+  {
+    "term": "探訪",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-337-cantonese_b1e8c2c3.mp3"
+  },
+  {
+    "term": "探訪",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-338-mandarin_19660f71.mp3"
+  },
+  {
+    "term": "揮春",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-339-cantonese_fbde1fe0.mp3"
+  },
+  {
+    "term": "揮春",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-340-mandarin_843fe9dd.mp3"
+  },
+  {
+    "term": "故宮",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-341-cantonese_df1e8ce6.mp3"
+  },
+  {
+    "term": "故宮",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-342-mandarin_44ea2e7a.mp3"
+  },
+  {
+    "term": "文字",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-343-cantonese_b2bb9de2.mp3"
+  },
+  {
+    "term": "文字",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-344-mandarin_b6abf8c8.mp3"
+  },
+  {
+    "term": "春節",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-345-cantonese_4215ff0e.mp3"
+  },
+  {
+    "term": "春節",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-346-mandarin_53c1a572.mp3"
+  },
+  {
+    "term": "書法",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-347-cantonese_0ae48798.mp3"
+  },
+  {
+    "term": "書法",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-348-mandarin_432729bc.mp3"
+  },
+  {
+    "term": "桃花",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-349-cantonese_66ef0b48.mp3"
+  },
+  {
+    "term": "桃花",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-350-mandarin_5958fdc7.mp3"
+  },
+  {
+    "term": "正月",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-351-cantonese_b772e3b0.mp3"
+  },
+  {
+    "term": "正月",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-352-mandarin_342bbd21.mp3"
+  },
+  {
+    "term": "武術",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-353-cantonese_83cc402a.mp3"
+  },
+  {
+    "term": "武術",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-354-mandarin_36371900.mp3"
+  },
+  {
+    "term": "珍貴",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-355-cantonese_440a8ec4.mp3"
+  },
+  {
+    "term": "珍貴",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-356-mandarin_45f09a2f.mp3"
+  },
+  {
+    "term": "生肖",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-357-cantonese_01b38065.mp3"
+  },
+  {
+    "term": "生肖",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-358-mandarin_850017bf.mp3"
+  },
+  {
+    "term": "皇帝",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-359-cantonese_de285628.mp3"
+  },
+  {
+    "term": "皇帝",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-360-mandarin_61842f2e.mp3"
+  },
+  {
+    "term": "端午",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-361-cantonese_c6e5d272.mp3"
+  },
+  {
+    "term": "端午",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-362-mandarin_5076e9d1.mp3"
+  },
+  {
+    "term": "粵劇",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-363-cantonese_f76ae6f1.mp3"
+  },
+  {
+    "term": "粵劇",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-364-mandarin_a4f6cc31.mp3"
+  },
+  {
+    "term": "耕種",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-365-cantonese_fbb0cbbb.mp3"
+  },
+  {
+    "term": "耕種",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-366-mandarin_5521c773.mp3"
+  },
+  {
+    "term": "舞獅",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-367-cantonese_c9929a46.mp3"
+  },
+  {
+    "term": "舞獅",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-368-mandarin_0cd7fc15.mp3"
+  },
+  {
+    "term": "花燈",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-369-cantonese_05b46075.mp3"
+  },
+  {
+    "term": "花燈",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-370-mandarin_3afcb50e.mp3"
+  },
+  {
+    "term": "賞月",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-371-cantonese_d2378480.mp3"
+  },
+  {
+    "term": "賞月",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-372-mandarin_874c1dbd.mp3"
+  },
+  {
+    "term": "傳統",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-373-cantonese_66c9473e.mp3"
+  },
+  {
+    "term": "傳統",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-374-mandarin_e72e456f.mp3"
+  },
+  {
+    "term": "元宵",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-375-cantonese_374bca6b.mp3"
+  },
+  {
+    "term": "元宵",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-376-mandarin_0dcc1237.mp3"
+  },
+  {
+    "term": "出土",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-377-cantonese_8aec57a5.mp3"
+  },
+  {
+    "term": "出土",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-378-mandarin_3b877f57.mp3"
+  },
+  {
+    "term": "古國",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-379-cantonese_1e3b1e8f.mp3"
+  },
+  {
+    "term": "古國",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-380-mandarin_b673a6dc.mp3"
+  },
+  {
+    "term": "古蹟",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-381-cantonese_44b928d1.mp3"
+  },
+  {
+    "term": "古蹟",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-382-mandarin_e8267e63.mp3"
+  },
+  {
+    "term": "成語",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-383-cantonese_e17ce29d.mp3"
+  },
+  {
+    "term": "成語",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-384-mandarin_94823920.mp3"
+  },
+  {
+    "term": "朝代",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-385-cantonese_97ec42c1.mp3"
+  },
+  {
+    "term": "朝代",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-386-mandarin_a0535363.mp3"
+  },
+  {
+    "term": "民間",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-387-cantonese_86eacae1.mp3"
+  },
+  {
+    "term": "民間",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-388-mandarin_a7449bb7.mp3"
+  },
+  {
+    "term": "發明",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-389-cantonese_ea53ea38.mp3"
+  },
+  {
+    "term": "發明",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-390-mandarin_15096fcd.mp3"
+  },
+  {
+    "term": "神話",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-391-cantonese_27fa3d63.mp3"
+  },
+  {
+    "term": "神話",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-392-mandarin_cbcda071.mp3"
+  },
+  {
+    "term": "紀念",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-393-cantonese_4971c1f7.mp3"
+  },
+  {
+    "term": "紀念",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-394-mandarin_5bc97cd0.mp3"
+  },
+  {
+    "term": "習俗",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-395-cantonese_7af36ae6.mp3"
+  },
+  {
+    "term": "習俗",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-396-mandarin_68decfa5.mp3"
+  },
+  {
+    "term": "記載",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-397-cantonese_fa6742e5.mp3"
+  },
+  {
+    "term": "記載",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-398-mandarin_eef9c641.mp3"
+  },
+  {
+    "term": "農村",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-399-cantonese_daed23ed.mp3"
+  },
+  {
+    "term": "農村",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-400-mandarin_bc9900af.mp3"
+  },
+  {
+    "term": "造紙",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-401-cantonese_269dbfcb.mp3"
+  },
+  {
+    "term": "造紙",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-402-mandarin_16b85b21.mp3"
+  },
+  {
+    "term": "遺址",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-403-cantonese_6ca7f8fd.mp3"
+  },
+  {
+    "term": "遺址",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-404-mandarin_af5782ad.mp3"
+  },
+  {
+    "term": "重陽",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-405-cantonese_88a21360.mp3"
+  },
+  {
+    "term": "重陽",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-406-mandarin_deb26c66.mp3"
+  },
+  {
+    "term": "長城",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-407-cantonese_12aa11c3.mp3"
+  },
+  {
+    "term": "長城",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-408-mandarin_7f882db6.mp3"
+  },
+  {
+    "term": "首都",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-409-cantonese_9bbd8bd0.mp3"
+  },
+  {
+    "term": "首都",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-410-mandarin_721853d4.mp3"
+  },
+  {
+    "term": "龍舟",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-411-cantonese_bab9b140.mp3"
+  },
+  {
+    "term": "龍舟",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-412-mandarin_6cfcbbd6.mp3"
+  },
+  {
+    "term": "康復",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-413-cantonese_b9112f20.mp3"
+  },
+  {
+    "term": "康復",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-414-mandarin_4e733cce.mp3"
+  },
+  {
+    "term": "患病",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-415-cantonese_a9b6ddb6.mp3"
+  },
+  {
+    "term": "患病",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-416-mandarin_5a48ee8d.mp3"
+  },
+  {
+    "term": "情緒",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-417-cantonese_23b0c60b.mp3"
+  },
+  {
+    "term": "情緒",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-418-mandarin_0cfdcbc2.mp3"
+  },
+  {
+    "term": "意外",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-419-cantonese_ddf104c2.mp3"
+  },
+  {
+    "term": "意外",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-420-mandarin_52f7cec5.mp3"
+  },
+  {
+    "term": "感染",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-421-cantonese_2be65c67.mp3"
+  },
+  {
+    "term": "感染",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-422-mandarin_6968541d.mp3"
+  },
+  {
+    "term": "掛號",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-423-cantonese_e78fbdd0.mp3"
+  },
+  {
+    "term": "掛號",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-424-mandarin_65759440.mp3"
+  },
+  {
+    "term": "救援",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-425-cantonese_92772f88.mp3"
+  },
+  {
+    "term": "救援",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-426-mandarin_0c7a59be.mp3"
+  },
+  {
+    "term": "止痛",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-427-cantonese_9c3a4fa9.mp3"
+  },
+  {
+    "term": "止痛",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-428-mandarin_cf6d2b34.mp3"
+  },
+  {
+    "term": "治療",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-429-cantonese_9cfd6940.mp3"
+  },
+  {
+    "term": "治療",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-430-mandarin_0bfae786.mp3"
+  },
+  {
+    "term": "注射",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-431-cantonese_74d45a2a.mp3"
+  },
+  {
+    "term": "注射",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-432-mandarin_be74a910.mp3"
+  },
+  {
+    "term": "消毒",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-433-cantonese_df7b93c6.mp3"
+  },
+  {
+    "term": "消毒",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-434-mandarin_4fc1e0eb.mp3"
+  },
+  {
+    "term": "病人",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-435-cantonese_04e4f277.mp3"
+  },
+  {
+    "term": "病人",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-436-mandarin_46f679da.mp3"
+  },
+  {
+    "term": "病房",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-437-cantonese_216ddf4a.mp3"
+  },
+  {
+    "term": "病房",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-438-mandarin_96c43c22.mp3"
+  },
+  {
+    "term": "病毒",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-439-cantonese_cc83da46.mp3"
+  },
+  {
+    "term": "病毒",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-440-mandarin_9a02e635.mp3"
+  },
+  {
+    "term": "習慣",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-441-cantonese_51256ac7.mp3"
+  },
+  {
+    "term": "習慣",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-442-mandarin_414ee2ba.mp3"
+  },
+  {
+    "term": "藥物",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-443-cantonese_1c4c46cb.mp3"
+  },
+  {
+    "term": "藥物",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-444-mandarin_714b1b4f.mp3"
+  },
+  {
+    "term": "衛生",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-445-cantonese_35137edc.mp3"
+  },
+  {
+    "term": "衛生",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-446-mandarin_05af233f.mp3"
+  },
+  {
+    "term": "診所",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-447-cantonese_d77a79f8.mp3"
+  },
+  {
+    "term": "診所",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-448-mandarin_0b3baefd.mp3"
+  },
+  {
+    "term": "請假",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-449-cantonese_900dbe15.mp3"
+  },
+  {
+    "term": "請假",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-450-mandarin_0ccdea4b.mp3"
+  },
+  {
+    "term": "醫治",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-451-cantonese_8294a498.mp3"
+  },
+  {
+    "term": "醫治",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-452-mandarin_6abf721b.mp3"
+  },
+  {
+    "term": "預防",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-453-cantonese_2dd83c43.mp3"
+  },
+  {
+    "term": "預防",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-454-mandarin_d10e2891.mp3"
+  },
+  {
+    "term": "飲食",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-455-cantonese_a5e30a09.mp3"
+  },
+  {
+    "term": "飲食",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-456-mandarin_bc325826.mp3"
+  },
+  {
+    "term": "酒樓",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-457-cantonese_98fab089.mp3"
+  },
+  {
+    "term": "酒樓",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-458-mandarin_a480b77e.mp3"
+  },
+  {
+    "term": "銀行",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-459-cantonese_8a65b16c.mp3"
+  },
+  {
+    "term": "銀行",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-460-mandarin_6d5f1f49.mp3"
+  },
+  {
+    "term": "郵政局",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-461-cantonese_6aa3b19e.mp3"
+  },
+  {
+    "term": "郵政局",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-462-mandarin_9f380851.mp3"
+  },
+  {
+    "term": "風球",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-463-cantonese_00759154.mp3"
+  },
+  {
+    "term": "風球",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-464-mandarin_3b2ff2a6.mp3"
+  },
+  {
+    "term": "警告",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-465-cantonese_c76b4813.mp3"
+  },
+  {
+    "term": "警告",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-466-mandarin_d4d1d401.mp3"
+  },
+  {
+    "term": "母校",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-467-cantonese_ede8c069.mp3"
+  },
+  {
+    "term": "母校",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-468-mandarin_f9d214de.mp3"
+  },
+  {
+    "term": "友愛",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-469-cantonese_3e8bf34c.mp3"
+  },
+  {
+    "term": "友愛",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-470-mandarin_b11667de.mp3"
+  },
+  {
+    "term": "宣佈",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-471-cantonese_3262faae.mp3"
+  },
+  {
+    "term": "宣佈",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-472-mandarin_718059e5.mp3"
+  },
+  {
+    "term": "商品",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-473-cantonese_caf1db76.mp3"
+  },
+  {
+    "term": "商品",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-474-mandarin_7708f6ba.mp3"
+  },
+  {
+    "term": "通訊",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-475-cantonese_cb36a174.mp3"
+  },
+  {
+    "term": "通訊",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-476-mandarin_ed7ff873.mp3"
+  },
+  {
+    "term": "關注",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-477-cantonese_9a5c07ed.mp3"
+  },
+  {
+    "term": "關注",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-478-mandarin_b1f60e7a.mp3"
+  },
+  {
+    "term": "綠化",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-479-cantonese_a4dc92e1.mp3"
+  },
+  {
+    "term": "綠化",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-480-mandarin_302a67dc.mp3"
+  },
+  {
+    "term": "能源",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-481-cantonese_016c4143.mp3"
+  },
+  {
+    "term": "能源",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-482-mandarin_07a85d8f.mp3"
+  },
+  {
+    "term": "疾病",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-483-cantonese_62b19595.mp3"
+  },
+  {
+    "term": "疾病",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-484-mandarin_176511b0.mp3"
+  },
+  {
+    "term": "收據",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-485-cantonese_8ebc00ef.mp3"
+  },
+  {
+    "term": "收據",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-486-mandarin_70aa6e13.mp3"
+  },
+  {
+    "term": "遺產",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-487-cantonese_756d6df9.mp3"
+  },
+  {
+    "term": "遺產",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-488-mandarin_bda3ae71.mp3"
+  },
+  {
+    "term": "急症室",
+    "language": "cantonese",
+    "storagePath": "/manus-storage/parent-repair-489-cantonese_86d57b61.mp3"
+  },
+  {
+    "term": "急症室",
+    "language": "mandarin",
+    "storagePath": "/manus-storage/parent-repair-490-mandarin_94cdf4da.mp3"
+  }
+]

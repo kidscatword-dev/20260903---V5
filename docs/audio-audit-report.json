@@ -1,0 +1,920 @@
+{
+  "auditedAt": "2026-08-26T16:51:31.191Z",
+  "siteOrigin": "https://3000-iomj0749j38uy3av6lgy4-8a910a54.us3.manus.computer",
+  "audioMaps": {
+    "v2Entries": 1052,
+    "legacyEntries": 0,
+    "uniqueSources": 2100
+  },
+  "overall": {
+    "terms": 1050,
+    "cantonese": {
+      "ok": 1049,
+      "missing-mapping": 0,
+      "unavailable": 1
+    },
+    "mandarin": {
+      "ok": 1050,
+      "missing-mapping": 0,
+      "unavailable": 0
+    }
+  },
+  "byMap": {
+    "M01": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M02": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M03": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M04": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M05": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M06": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M07": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M08": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M09": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M10": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M11": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M12": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M13": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M14": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 24,
+        "missing-mapping": 0,
+        "unavailable": 1
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M15": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M16": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M17": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M18": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M19": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M20": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M21": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M22": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M23": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M24": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M25": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M26": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M27": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M28": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M29": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M30": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M31": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M32": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M33": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M34": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M35": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M36": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M37": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M38": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M39": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M40": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M41": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    },
+    "M42": {
+      "terms": 25,
+      "cantonese": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      },
+      "mandarin": {
+        "ok": 25,
+        "missing-mapping": 0,
+        "unavailable": 0
+      }
+    }
+  },
+  "mediaAndCommunication": [
+    {
+      "term": "數碼",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-273_3c55e549.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-273_275803e6.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "檔案",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-274_b6021dd9.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-274_286b0e78.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "烹飪",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-276_e31efb59.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-276_d6b78dca.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "無線",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-277_b2d621e9.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-277_97aaaee3.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "熒幕",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-278_8f0a4bd5.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-278_42700588.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "轉播",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/cantonese-024801fbdecf_a8fc22c3.mp3",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/mandarin-024801fbdecf_185d7237.mp3",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "收視率",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/cantonese-b72319f7013a_be499a06.mp3",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/mandarin-b72319f7013a_5427e946.mp3",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "科技",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-281_a5ed3b24.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-281_61b3e900.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "節目",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-282_e48d7353.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-282_3b49c06a.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "精彩",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-283_f0a91bfd.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-283_7681c8b6.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "維修",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-284_c4b4b94b.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-284_dffed1d2.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "網站",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-285_1aaa2171.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-285_9737fafe.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "設計",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-288_c93f0c8e.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-288_6110ff10.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "評論",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-289_9ad5e2bc.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-289_d9818403.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "說明書",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-290_70d555d9.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-290_d08f824b.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "讀者",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-291_9df7499d.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-291_c1645cff.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "資訊",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-292_e7d746cb.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-292_f29ec082.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "運用",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-293_f7ab10d9.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-293_1a6abb1c.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "遙控",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-294_8422f282.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-294_18dc1155.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "選擇",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-295_2bca8069.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-295_d81f57df.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "錄像",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-296_9a0c634c.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-296_48c5b390.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "錄影",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-297_33f5030c.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-297_a358b2aa.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "雜誌",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-300_abfb2cc3.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-300_d307690b.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "電台",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-301_27403faa.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-301_de4894a4.wav",
+        "status": "ok"
+      }
+    },
+    {
+      "term": "電視台",
+      "mapId": "M34",
+      "topic": "媒體與通訊",
+      "cantonese": {
+        "source": "/manus-storage/yue-302_f485f14c.wav",
+        "status": "ok"
+      },
+      "mandarin": {
+        "source": "/manus-storage/cmn-302_4c9179c4.wav",
+        "status": "ok"
+      }
+    }
+  ],
+  "unavailable": [
+    {
+      "term": "腦袋",
+      "mapId": "M14",
+      "topic": "肢體與身體部位",
+      "cantonese": {
+        "source": "/manus-storage/word-145_06733541.mp3",
+        "status": "unavailable"
+      },
+      "mandarin": {
+        "source": "/manus-storage/word-145_2320c480.mp3",
+        "status": "ok"
+      }
+    }
+  ],
+  "failedSources": [
+    {
+      "source": "/manus-storage/word-145_06733541.mp3",
+      "status": 0,
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

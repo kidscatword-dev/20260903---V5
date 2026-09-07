@@ -1,0 +1,20 @@
+[
+  { "term": "回收箱", "row": 0, "column": 1 },
+  { "term": "垃圾桶", "row": 0, "column": 2 },
+  { "term": "急救箱", "row": 0, "column": 3 },
+  { "term": "手電筒", "row": 0, "column": 4 },
+  { "term": "抽屜", "row": 1, "column": 1 },
+  { "term": "指南針", "row": 1, "column": 2 },
+  { "term": "收音機", "row": 1, "column": 3 },
+  { "term": "放大鏡", "row": 1, "column": 4 },
+  { "term": "文件夾", "row": 2, "column": 0 },
+  { "term": "書架", "row": 2, "column": 1 },
+  { "term": "滅火筒", "row": 2, "column": 3 },
+  { "term": "滑鼠", "row": 2, "column": 4 },
+  { "term": "訂書機", "row": 3, "column": 2 },
+  { "term": "路由器", "row": 3, "column": 4 },
+  { "term": "遙控車", "row": 4, "column": 0 },
+  { "term": "量角器", "row": 4, "column": 1 },
+  { "term": "鍵盤", "row": 4, "column": 2 },
+  { "term": "電池", "row": 4, "column": 3 }
+]

@@ -1,0 +1,22 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 圖片文字配對排行榜由現有 Node/tRPC server 使用 Firebase Admin SDK 寫入。
+    // Admin SDK 會繞過 Rules，所以 server 必須自行驗證付款、名字及分數。
+    // 客戶端只能讀取公開排行榜，不能直接偽造分數或佔用名字。
+    match /pictureMatchLeaderboard/{entryId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    match /pictureMatchNameClaims/{nameKey} {
+      allow read: if false;
+      allow write: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

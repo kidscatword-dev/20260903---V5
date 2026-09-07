@@ -1,0 +1,14 @@
+[
+  { "term": "乒乓球", "row": 0, "column": 0 },
+  { "term": "冠軍", "row": 0, "column": 1 },
+  { "term": "排球", "row": 0, "column": 3 },
+  { "term": "教練", "row": 1, "column": 0 },
+  { "term": "游泳", "row": 1, "column": 3 },
+  { "term": "滑雪", "row": 2, "column": 0 },
+  { "term": "獎牌", "row": 2, "column": 2 },
+  { "term": "瑜伽", "row": 2, "column": 4 },
+  { "term": "羽毛球", "row": 3, "column": 1 },
+  { "term": "行山", "row": 3, "column": 2 },
+  { "term": "足球", "row": 3, "column": 3 },
+  { "term": "跑步", "row": 3, "column": 4 }
+]

@@ -1,0 +1,8 @@
+{
+  "auditedAt": "2026-08-27T00:54:58.064Z",
+  "siteOrigin": "http://localhost:3000",
+  "total": 166,
+  "passed": 166,
+  "suspicious": [],
+  "failed": []
+}

@@ -1,0 +1,17 @@
+import { useMemo, useState } from "react";
+import { ArrowLeft, Search, Volume2 } from "lucide-react";
+import { tenLevelTerms } from "@/data/tenLevelCatalog";
+import { getLanguageWord, getLanguageWordCounterpart } from "@/lib/wordLanguageVariants";
+import { useChineseScript } from "@/contexts/ChineseScriptContext";
+
+export function TenLevelSearch({ familyUnlocked, onRequestUnlock, onBack, onPlay }: { familyUnlocked: boolean; onRequestUnlock: () => void; onBack: () => void; onPlay: (term: string, language: "cantonese" | "mandarin") => void }) {
+  const { displayText } = useChineseScript();
+  const [query, setQuery] = useState("");
+  const results = useMemo(() => {
+    const search = query.trim();
+    if (!search) return [];
+    return tenLevelTerms.filter(item => (familyUnlocked || item.level === 1) && (item.term.includes(search) || displayText(item.term).includes(search))).slice(0, 30);
+  }, [displayText, familyUnlocked, query]);
+  const exampleText = displayText("太陽、雨傘、圖書館");
+  return <div className="mx-auto min-h-screen max-w-md bg-[#FFF9ED] px-4 pb-8 pt-4 text-[#26324B]"><header className="flex items-center justify-between"><button onClick={onBack} className="grid h-11 w-11 place-items-center rounded-2xl bg-white text-[#47745D] shadow-sm" aria-label="返回"><ArrowLeft className="h-5 w-5" /></button><div className="text-center"><p className="font-serif text-2xl font-black">自由查詞</p><p className="mt-0.5 text-xs font-bold text-[#76839A]">{familyUnlocked ? "搜尋 1,260 個香港繁體字詞" : "第 1 級免費字詞"}</p></div><div className="w-11" /></header>{!familyUnlocked && <button onClick={onRequestUnlock} className="mt-4 w-full rounded-2xl border-2 border-[#F2DEAB] bg-[#FFF8E7] px-4 py-3 text-sm font-black text-[#8A7040]">第 2 至第 10 級字詞需要家長家庭完整解鎖</button>}<label className="mt-6 flex items-center gap-3 rounded-2xl bg-white px-4 py-3 shadow-sm"><Search className="h-5 w-5 text-[#6C9F9E]" /><input autoFocus value={query} onChange={event => setQuery(event.target.value)} placeholder={displayText("輸入想找的繁體字詞")} className="min-w-0 flex-1 bg-transparent text-base font-bold outline-none placeholder:text-[#A6B0BF]" /></label>{!query.trim() ? <p className="mt-7 text-center text-sm font-bold leading-6 text-[#718095]">例如：{exampleText}<br />搜尋後可以聽粵語和普通話固定讀音。</p> : results.length === 0 ? <p className="mt-7 text-center text-sm font-bold text-[#718095]">暫時找不到「{query}」，請試試其他詞語。</p> : <div className="mt-5 grid gap-3">{results.map(item => { const primary = displayText(getLanguageWord(item.term, "cantonese")); const counterpart = getLanguageWordCounterpart(item.term, "cantonese"); return <article key={`${item.mapId}:${item.term}`} className="rounded-[1.45rem] bg-white p-4 shadow-sm"><div className="flex items-start justify-between gap-3"><div><strong className="text-2xl text-[#40526D]">{primary}</strong>{counterpart && <p className="mt-0.5 font-serif text-base font-black text-[#76839A]">（{displayText(counterpart)}）</p>}<p className="mt-1 text-xs font-bold text-[#76839A]">第 {item.level} 級・{displayText(item.topic)}</p></div><span className="rounded-full bg-[#EEF8F1] px-3 py-1 text-xs font-black text-[#47745D]">{item.mapId}</span></div><div className="mt-4 grid grid-cols-2 gap-2"><button onClick={() => onPlay(item.term, "cantonese")} className="voice-button voice-canto"><Volume2 className="h-4 w-4" />粵語</button><button onClick={() => onPlay(item.term, "mandarin")} className="voice-button voice-mandarin"><Volume2 className="h-4 w-4" />普通話</button></div></article>; })}</div>}</div>;
+}

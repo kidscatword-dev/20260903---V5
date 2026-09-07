@@ -1,0 +1,344 @@
+{
+  "mapCount": 42,
+  "uploadedCardCount": 42,
+  "missing": [],
+  "unexpected": [],
+  "maps": [
+    {
+      "mapId": "M01",
+      "level": 1,
+      "topic": "水果與飲品",
+      "cardFile": "LV1水果與飲品.png",
+      "present": true,
+      "sizeBytes": 950406
+    },
+    {
+      "mapId": "M02",
+      "level": 4,
+      "topic": "主食與小食",
+      "cardFile": "LV4主食與小食.jpeg",
+      "present": true,
+      "sizeBytes": 1150565
+    },
+    {
+      "mapId": "M03",
+      "level": 9,
+      "topic": "蔬菜與食材",
+      "cardFile": "LV9蔬菜與食材.png",
+      "present": true,
+      "sizeBytes": 1565783
+    },
+    {
+      "mapId": "M04",
+      "level": 1,
+      "topic": "基本心情",
+      "cardFile": "LV1基本心情.png",
+      "present": true,
+      "sizeBytes": 922736
+    },
+    {
+      "mapId": "M05",
+      "level": 5,
+      "topic": "人際感受與態度",
+      "cardFile": "LV5人際感受與態度.png",
+      "present": true,
+      "sizeBytes": 1774720
+    },
+    {
+      "mapId": "M06",
+      "level": 9,
+      "topic": "進階情緒與自我認識",
+      "cardFile": "LV9進階情緒與自我認識.png",
+      "present": true,
+      "sizeBytes": 1259198
+    },
+    {
+      "mapId": "M07",
+      "level": 1,
+      "topic": "常見動物",
+      "cardFile": "LV1常見動物.png",
+      "present": true,
+      "sizeBytes": 811384
+    },
+    {
+      "mapId": "M08",
+      "level": 5,
+      "topic": "水中與海洋動物",
+      "cardFile": "LV5水中與海洋動物.png",
+      "present": true,
+      "sizeBytes": 1327967
+    },
+    {
+      "mapId": "M09",
+      "level": 10,
+      "topic": "鳥類、昆蟲與野生動物",
+      "cardFile": "LV10鳥類昆蟲與野生動物.png",
+      "present": true,
+      "sizeBytes": 1728718
+    },
+    {
+      "mapId": "M10",
+      "level": 1,
+      "topic": "基本顏色",
+      "cardFile": "LV1基本顏色.png",
+      "present": true,
+      "sizeBytes": 963782
+    },
+    {
+      "mapId": "M11",
+      "level": 5,
+      "topic": "色彩深淺與質感",
+      "cardFile": "LV5色彩深淺與質感.png",
+      "present": true,
+      "sizeBytes": 1203619
+    },
+    {
+      "mapId": "M12",
+      "level": 10,
+      "topic": "形容與視覺描述",
+      "cardFile": "LV10形容與視覺描述.png",
+      "present": true,
+      "sizeBytes": 1619165
+    },
+    {
+      "mapId": "M13",
+      "level": 2,
+      "topic": "五官與外觀",
+      "cardFile": "LV2五官與外觀.png",
+      "present": true,
+      "sizeBytes": 864906
+    },
+    {
+      "mapId": "M14",
+      "level": 5,
+      "topic": "肢體與身體部位",
+      "cardFile": "LV5肢體與身體部位.png",
+      "present": true,
+      "sizeBytes": 1418821
+    },
+    {
+      "mapId": "M15",
+      "level": 10,
+      "topic": "人體系統與感官",
+      "cardFile": "LV10人體系統與感官.png",
+      "present": true,
+      "sizeBytes": 1487940
+    },
+    {
+      "mapId": "M16",
+      "level": 2,
+      "topic": "核心家人",
+      "cardFile": "LV2核心家人.png",
+      "present": true,
+      "sizeBytes": 1056881
+    },
+    {
+      "mapId": "M17",
+      "level": 4,
+      "topic": "親戚與家庭生活",
+      "cardFile": "LV4親戚與家庭生活.jpeg",
+      "present": true,
+      "sizeBytes": 1150645
+    },
+    {
+      "mapId": "M18",
+      "level": 9,
+      "topic": "家族與關係",
+      "cardFile": "LV9家族與關係.png",
+      "present": true,
+      "sizeBytes": 1365131
+    },
+    {
+      "mapId": "M19",
+      "level": 2,
+      "topic": "家居用品",
+      "cardFile": "LV2家居用品.png",
+      "present": true,
+      "sizeBytes": 1142221
+    },
+    {
+      "mapId": "M20",
+      "level": 6,
+      "topic": "學習與個人物品",
+      "cardFile": "LV6學習與個人物品.png",
+      "present": true,
+      "sizeBytes": 1250493
+    },
+    {
+      "mapId": "M21",
+      "level": 10,
+      "topic": "家電與實用工具",
+      "cardFile": "LV10家電與實用工具.png",
+      "present": true,
+      "sizeBytes": 1735920
+    },
+    {
+      "mapId": "M22",
+      "level": 2,
+      "topic": "玩具與遊戲",
+      "cardFile": "LV2玩具與遊戲.png",
+      "present": true,
+      "sizeBytes": 1063142
+    },
+    {
+      "mapId": "M23",
+      "level": 3,
+      "topic": "交通與出行",
+      "cardFile": "LV3交通與出行.png",
+      "present": true,
+      "sizeBytes": 1123253
+    },
+    {
+      "mapId": "M24",
+      "level": 4,
+      "topic": "校園日常",
+      "cardFile": "LV4校園日常.jpeg",
+      "present": true,
+      "sizeBytes": 1038214
+    },
+    {
+      "mapId": "M25",
+      "level": 7,
+      "topic": "課堂學習與活動",
+      "cardFile": "LV7課堂學習與活動.png",
+      "present": true,
+      "sizeBytes": 1121192
+    },
+    {
+      "mapId": "M26",
+      "level": 7,
+      "topic": "職業與工作",
+      "cardFile": "LV7職業與工作.png",
+      "present": true,
+      "sizeBytes": 1084336
+    },
+    {
+      "mapId": "M27",
+      "level": 7,
+      "topic": "運動與活動",
+      "cardFile": "LV7運動與活動.png",
+      "present": true,
+      "sizeBytes": 1220672
+    },
+    {
+      "mapId": "M28",
+      "level": 6,
+      "topic": "天氣、季節與自然現象",
+      "cardFile": "LV6天氣季節與自然現象.png",
+      "present": true,
+      "sizeBytes": 936717
+    },
+    {
+      "mapId": "M29",
+      "level": 10,
+      "topic": "自然景觀與環境保護",
+      "cardFile": "LV10自然景觀與環境保護.png",
+      "present": true,
+      "sizeBytes": 2576865
+    },
+    {
+      "mapId": "M30",
+      "level": 9,
+      "topic": "品格與自我管理",
+      "cardFile": "LV9品格與自我管理.png",
+      "present": true,
+      "sizeBytes": 1425000
+    },
+    {
+      "mapId": "M31",
+      "level": 9,
+      "topic": "社區規則與公民生活",
+      "cardFile": "LV9社區規則與公民生活.png",
+      "present": true,
+      "sizeBytes": 1376415
+    },
+    {
+      "mapId": "M32",
+      "level": 6,
+      "topic": "社區場所與城市生活",
+      "cardFile": "LV6社區場所與城市生活.png",
+      "present": true,
+      "sizeBytes": 1320122
+    },
+    {
+      "mapId": "M33",
+      "level": 4,
+      "topic": "數碼工具與操作",
+      "cardFile": "LV4數碼工具與操作.png",
+      "present": true,
+      "sizeBytes": 1110094
+    },
+    {
+      "mapId": "M34",
+      "level": 8,
+      "topic": "媒體與通訊",
+      "cardFile": "LV8媒體與通訊.png",
+      "present": true,
+      "sizeBytes": 1155280
+    },
+    {
+      "mapId": "M35",
+      "level": 3,
+      "topic": "傳統節日",
+      "cardFile": "LV3傳統節日.jpeg",
+      "present": true,
+      "sizeBytes": 934771
+    },
+    {
+      "mapId": "M36",
+      "level": 7,
+      "topic": "中國文化與藝術",
+      "cardFile": "LV7中國文化與藝術.png",
+      "present": true,
+      "sizeBytes": 1303169
+    },
+    {
+      "mapId": "M37",
+      "level": 8,
+      "topic": "歷史與古蹟",
+      "cardFile": "LV8歷史與古蹟.png",
+      "present": true,
+      "sizeBytes": 1575125
+    },
+    {
+      "mapId": "M38",
+      "level": 3,
+      "topic": "日常衛生與健康",
+      "cardFile": "LV3日常衛生與健康.jpeg",
+      "present": true,
+      "sizeBytes": 926997
+    },
+    {
+      "mapId": "M39",
+      "level": 8,
+      "topic": "就醫與疾病預防",
+      "cardFile": "LV8就醫與疾病預防.png",
+      "present": true,
+      "sizeBytes": 1194222
+    },
+    {
+      "mapId": "M40",
+      "level": 3,
+      "topic": "服裝與穿戴",
+      "cardFile": "LV3服裝與穿戴.jpeg",
+      "present": true,
+      "sizeBytes": 1585990
+    },
+    {
+      "mapId": "M41",
+      "level": 8,
+      "topic": "社區、服務與生活延伸",
+      "cardFile": "LV8社區服務與生活延伸.png",
+      "present": true,
+      "sizeBytes": 1402381
+    },
+    {
+      "mapId": "M42",
+      "level": 6,
+      "topic": "服裝、穿戴與衣物製作",
+      "cardFile": "LV6服裝穿戴與衣物製作.png",
+      "present": true,
+      "sizeBytes": 1270566
+    }
+  ]
+}

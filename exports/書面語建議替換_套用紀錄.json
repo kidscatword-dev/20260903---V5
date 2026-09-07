@@ -1,0 +1,1034 @@
+{
+  "decision": "M35 的「互相」改為「團拜」，避免與 M18 的「團圓」及「團聚」重複。",
+  "replacementCount": 114,
+  "generatedAudioCount": 106,
+  "reusedAudioCount": 8,
+  "applied": [
+    {
+      "mapId": "M01",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "桃子",
+      "spreadsheetTerm": "桃",
+      "replacementTerm": "桃子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M01",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "梨子",
+      "spreadsheetTerm": "梨",
+      "replacementTerm": "梨子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M01",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "橙子",
+      "spreadsheetTerm": "橙",
+      "replacementTerm": "橙子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M01",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "蔬菜",
+      "spreadsheetTerm": "菜",
+      "replacementTerm": "蔬菜",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M04",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "哭泣",
+      "spreadsheetTerm": "哭",
+      "replacementTerm": "哭泣",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M04",
+      "stage": 2,
+      "stageOrder": 3,
+      "originalTerm": "妒忌",
+      "spreadsheetTerm": "嫉妒",
+      "replacementTerm": "妒忌",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M04",
+      "stage": 3,
+      "stageOrder": 3,
+      "originalTerm": "愛心",
+      "spreadsheetTerm": "愛",
+      "replacementTerm": "愛心",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M07",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "幼貓",
+      "spreadsheetTerm": "小貓",
+      "replacementTerm": "幼貓",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M07",
+      "stage": 2,
+      "stageOrder": 4,
+      "originalTerm": "鵝",
+      "spreadsheetTerm": "斑點狗",
+      "replacementTerm": "鵝",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M10",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "螢光色",
+      "spreadsheetTerm": "光亮",
+      "replacementTerm": "螢光色",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M10",
+      "stage": 2,
+      "stageOrder": 5,
+      "originalTerm": "草綠色",
+      "spreadsheetTerm": "橄欖綠",
+      "replacementTerm": "草綠色",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M13",
+      "stage": 1,
+      "stageOrder": 2,
+      "originalTerm": "腰",
+      "spreadsheetTerm": "喉嚨",
+      "replacementTerm": "腰",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M13",
+      "stage": 1,
+      "stageOrder": 4,
+      "originalTerm": "臉",
+      "spreadsheetTerm": "太陽穴",
+      "replacementTerm": "臉",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M13",
+      "stage": 4,
+      "stageOrder": 2,
+      "originalTerm": "胃",
+      "spreadsheetTerm": "肩胛",
+      "replacementTerm": "胃",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M13",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "腳",
+      "spreadsheetTerm": "腦袋",
+      "replacementTerm": "腳",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M16",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "表妹",
+      "spreadsheetTerm": "甥女",
+      "replacementTerm": "表妹",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M16",
+      "stage": 5,
+      "stageOrder": 4,
+      "originalTerm": "外甥",
+      "spreadsheetTerm": "甥子",
+      "replacementTerm": "外甥",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 2,
+      "stageOrder": 4,
+      "originalTerm": "杯子",
+      "spreadsheetTerm": "杯",
+      "replacementTerm": "杯子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 2,
+      "stageOrder": 6,
+      "originalTerm": "桌子",
+      "spreadsheetTerm": "桌",
+      "replacementTerm": "桌子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 3,
+      "stageOrder": 1,
+      "originalTerm": "椅子",
+      "spreadsheetTerm": "椅",
+      "replacementTerm": "椅子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "碟子",
+      "spreadsheetTerm": "碟",
+      "replacementTerm": "碟子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 4,
+      "stageOrder": 4,
+      "originalTerm": "窗戶",
+      "spreadsheetTerm": "窗",
+      "replacementTerm": "窗戶",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M19",
+      "stage": 5,
+      "stageOrder": 5,
+      "originalTerm": "計算器",
+      "spreadsheetTerm": "計算機",
+      "replacementTerm": "計算器",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M23",
+      "stage": 3,
+      "stageOrder": 3,
+      "originalTerm": "碼頭",
+      "spreadsheetTerm": "港口",
+      "replacementTerm": "碼頭",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M35",
+      "stage": 1,
+      "stageOrder": 3,
+      "originalTerm": "中秋節",
+      "spreadsheetTerm": "中秋",
+      "replacementTerm": "中秋節",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M35",
+      "stage": 1,
+      "stageOrder": 4,
+      "originalTerm": "團拜",
+      "spreadsheetTerm": "互相",
+      "replacementTerm": "團拜",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M35",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "祈福",
+      "spreadsheetTerm": "創造",
+      "replacementTerm": "祈福",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M35",
+      "stage": 2,
+      "stageOrder": 5,
+      "originalTerm": "異鄉",
+      "spreadsheetTerm": "國外",
+      "replacementTerm": "異鄉",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M35",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "粽子",
+      "spreadsheetTerm": "茶葉",
+      "replacementTerm": "粽子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M38",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "病菌",
+      "spreadsheetTerm": "危害",
+      "replacementTerm": "病菌",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M38",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "定時",
+      "spreadsheetTerm": "及早",
+      "replacementTerm": "定時",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "恤衫",
+      "spreadsheetTerm": "恤",
+      "replacementTerm": "恤衫",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "帽子",
+      "spreadsheetTerm": "帽",
+      "replacementTerm": "帽子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 3,
+      "stageOrder": 2,
+      "originalTerm": "背心",
+      "spreadsheetTerm": "洗",
+      "replacementTerm": "背心",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 4,
+      "stageOrder": 6,
+      "originalTerm": "衣衫",
+      "spreadsheetTerm": "衫",
+      "replacementTerm": "衣衫",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "裙子",
+      "spreadsheetTerm": "裙",
+      "replacementTerm": "裙子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 5,
+      "stageOrder": 2,
+      "originalTerm": "褲子",
+      "spreadsheetTerm": "褲",
+      "replacementTerm": "褲子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M40",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "襪子",
+      "spreadsheetTerm": "襪",
+      "replacementTerm": "襪子",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M02",
+      "stage": 4,
+      "stageOrder": 6,
+      "originalTerm": "米飯",
+      "spreadsheetTerm": "飯",
+      "replacementTerm": "米飯",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M17",
+      "stage": 3,
+      "stageOrder": 4,
+      "originalTerm": "兄弟姊妹",
+      "spreadsheetTerm": "手足",
+      "replacementTerm": "兄弟姊妹",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "錄音機",
+      "spreadsheetTerm": "主持人",
+      "replacementTerm": "錄音機",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 1,
+      "stageOrder": 2,
+      "originalTerm": "電子書",
+      "spreadsheetTerm": "主角",
+      "replacementTerm": "電子書",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 1,
+      "stageOrder": 3,
+      "originalTerm": "數碼相機",
+      "spreadsheetTerm": "冷氣機",
+      "replacementTerm": "數碼相機",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 3,
+      "stageOrder": 3,
+      "originalTerm": "下載",
+      "spreadsheetTerm": "引起",
+      "replacementTerm": "下載",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 3,
+      "stageOrder": 6,
+      "originalTerm": "直播",
+      "spreadsheetTerm": "採訪",
+      "replacementTerm": "直播",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "短訊",
+      "spreadsheetTerm": "書信",
+      "replacementTerm": "短訊",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 4,
+      "stageOrder": 4,
+      "originalTerm": "實用",
+      "spreadsheetTerm": "有趣",
+      "replacementTerm": "實用",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 4,
+      "stageOrder": 5,
+      "originalTerm": "網絡",
+      "spreadsheetTerm": "本地",
+      "replacementTerm": "網絡",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 4,
+      "stageOrder": 6,
+      "originalTerm": "數據",
+      "spreadsheetTerm": "本港",
+      "replacementTerm": "數據",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M33",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "編輯",
+      "spreadsheetTerm": "模仿",
+      "replacementTerm": "編輯",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M05",
+      "stage": 3,
+      "stageOrder": 5,
+      "originalTerm": "微笑",
+      "spreadsheetTerm": "笑",
+      "replacementTerm": "微笑",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M05",
+      "stage": 3,
+      "stageOrder": 6,
+      "originalTerm": "疲勞",
+      "spreadsheetTerm": "累",
+      "replacementTerm": "疲勞",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M05",
+      "stage": 4,
+      "stageOrder": 2,
+      "originalTerm": "羞怯",
+      "spreadsheetTerm": "羞羞",
+      "replacementTerm": "羞怯",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M05",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "大度",
+      "spreadsheetTerm": "豁達",
+      "replacementTerm": "大度",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "小丑魚",
+      "spreadsheetTerm": "丹頂鶴",
+      "replacementTerm": "小丑魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 1,
+      "stageOrder": 2,
+      "originalTerm": "海鷗",
+      "spreadsheetTerm": "信天翁",
+      "replacementTerm": "海鷗",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 1,
+      "stageOrder": 3,
+      "originalTerm": "熱帶魚",
+      "spreadsheetTerm": "啄木鳥",
+      "replacementTerm": "熱帶魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 1,
+      "stageOrder": 5,
+      "originalTerm": "魷魚",
+      "spreadsheetTerm": "孔雀",
+      "replacementTerm": "魷魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "石斑魚",
+      "spreadsheetTerm": "梅花鹿",
+      "replacementTerm": "石斑魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 2,
+      "stageOrder": 3,
+      "originalTerm": "魟魚",
+      "spreadsheetTerm": "牧羊犬",
+      "replacementTerm": "魟魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 2,
+      "stageOrder": 4,
+      "originalTerm": "飛魚",
+      "spreadsheetTerm": "獵鷹",
+      "replacementTerm": "飛魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 3,
+      "stageOrder": 4,
+      "originalTerm": "海螺",
+      "spreadsheetTerm": "蝸牛",
+      "replacementTerm": "海螺",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "海牛",
+      "spreadsheetTerm": "長頸鹿",
+      "replacementTerm": "海牛",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M08",
+      "stage": 5,
+      "stageOrder": 5,
+      "originalTerm": "鸚鵡魚",
+      "spreadsheetTerm": "鸚鵡",
+      "replacementTerm": "鸚鵡魚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M11",
+      "stage": 4,
+      "stageOrder": 2,
+      "originalTerm": "卡其色",
+      "spreadsheetTerm": "赭石",
+      "replacementTerm": "卡其色",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M14",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "肩胛",
+      "spreadsheetTerm": "胃",
+      "replacementTerm": "肩胛",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M14",
+      "stage": 2,
+      "stageOrder": 6,
+      "originalTerm": "喉嚨",
+      "spreadsheetTerm": "腰",
+      "replacementTerm": "喉嚨",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M14",
+      "stage": 3,
+      "stageOrder": 1,
+      "originalTerm": "腦袋",
+      "spreadsheetTerm": "腳",
+      "replacementTerm": "腦袋",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M14",
+      "stage": 4,
+      "stageOrder": 1,
+      "originalTerm": "太陽穴",
+      "spreadsheetTerm": "臉",
+      "replacementTerm": "太陽穴",
+      "audioSource": "existing"
+    },
+    {
+      "mapId": "M14",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "下頜",
+      "spreadsheetTerm": "顎骨",
+      "replacementTerm": "下頜",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M14",
+      "stage": 5,
+      "stageOrder": 4,
+      "originalTerm": "頭骨",
+      "spreadsheetTerm": "顱骨",
+      "replacementTerm": "頭骨",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M20",
+      "stage": 1,
+      "stageOrder": 3,
+      "originalTerm": "螢光筆",
+      "spreadsheetTerm": "吸塵機",
+      "replacementTerm": "螢光筆",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M20",
+      "stage": 1,
+      "stageOrder": 4,
+      "originalTerm": "塗改帶",
+      "spreadsheetTerm": "吹風機",
+      "replacementTerm": "塗改帶",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M20",
+      "stage": 1,
+      "stageOrder": 5,
+      "originalTerm": "記事本",
+      "spreadsheetTerm": "微波爐",
+      "replacementTerm": "記事本",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M20",
+      "stage": 2,
+      "stageOrder": 6,
+      "originalTerm": "鉛筆盒",
+      "spreadsheetTerm": "洗衣機",
+      "replacementTerm": "鉛筆盒",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M20",
+      "stage": 3,
+      "stageOrder": 1,
+      "originalTerm": "漿糊筆",
+      "spreadsheetTerm": "煮食爐",
+      "replacementTerm": "漿糊筆",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M28",
+      "stage": 3,
+      "stageOrder": 4,
+      "originalTerm": "水氣",
+      "spreadsheetTerm": "水分",
+      "replacementTerm": "水氣",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M32",
+      "stage": 1,
+      "stageOrder": 2,
+      "originalTerm": "社區中心",
+      "spreadsheetTerm": "停課",
+      "replacementTerm": "社區中心",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M32",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "隔離",
+      "spreadsheetTerm": "封閉",
+      "replacementTerm": "隔離",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M32",
+      "stage": 2,
+      "stageOrder": 6,
+      "originalTerm": "張貼",
+      "spreadsheetTerm": "懸掛",
+      "replacementTerm": "張貼",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M42",
+      "stage": 4,
+      "stageOrder": 5,
+      "originalTerm": "縫紉",
+      "spreadsheetTerm": "縫",
+      "replacementTerm": "縫紉",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M42",
+      "stage": 4,
+      "stageOrder": 6,
+      "originalTerm": "縫補",
+      "spreadsheetTerm": "補",
+      "replacementTerm": "縫補",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M42",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "編織",
+      "spreadsheetTerm": "織",
+      "replacementTerm": "編織",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M25",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "視覺藝術",
+      "spreadsheetTerm": "視藝",
+      "replacementTerm": "視覺藝術",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M34",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "轉播",
+      "spreadsheetTerm": "爭論",
+      "replacementTerm": "轉播",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M34",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "收視率",
+      "spreadsheetTerm": "益智",
+      "replacementTerm": "收視率",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M34",
+      "stage": 5,
+      "stageOrder": 3,
+      "originalTerm": "觀看",
+      "spreadsheetTerm": "陪同",
+      "replacementTerm": "觀看",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M37",
+      "stage": 2,
+      "stageOrder": 3,
+      "originalTerm": "史蹟",
+      "spreadsheetTerm": "氣氛",
+      "replacementTerm": "史蹟",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M37",
+      "stage": 4,
+      "stageOrder": 2,
+      "originalTerm": "朝拜",
+      "spreadsheetTerm": "迎接",
+      "replacementTerm": "朝拜",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M37",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "進貢",
+      "spreadsheetTerm": "送禮",
+      "replacementTerm": "進貢",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M03",
+      "stage": 5,
+      "stageOrder": 5,
+      "originalTerm": "蔓越莓",
+      "spreadsheetTerm": "覆盆子",
+      "replacementTerm": "蔓越莓",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M06",
+      "stage": 3,
+      "stageOrder": 1,
+      "originalTerm": "愧疚",
+      "spreadsheetTerm": "慚怍",
+      "replacementTerm": "愧疚",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M18",
+      "stage": 2,
+      "stageOrder": 5,
+      "originalTerm": "宗族",
+      "spreadsheetTerm": "宗親",
+      "replacementTerm": "宗族",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M18",
+      "stage": 4,
+      "stageOrder": 5,
+      "originalTerm": "祖孫",
+      "spreadsheetTerm": "翁婿",
+      "replacementTerm": "祖孫",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M30",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "責任心",
+      "spreadsheetTerm": "使命感",
+      "replacementTerm": "責任心",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M12",
+      "stage": 1,
+      "stageOrder": 4,
+      "originalTerm": "亮度",
+      "spreadsheetTerm": "明度",
+      "replacementTerm": "亮度",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M15",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "代謝作用",
+      "spreadsheetTerm": "新陳代謝",
+      "replacementTerm": "代謝作用",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M15",
+      "stage": 2,
+      "stageOrder": 1,
+      "originalTerm": "橫隔膜",
+      "spreadsheetTerm": "橫膈膜",
+      "replacementTerm": "橫隔膜",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M15",
+      "stage": 4,
+      "stageOrder": 1,
+      "originalTerm": "筋腱",
+      "spreadsheetTerm": "肌腱",
+      "replacementTerm": "筋腱",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M21",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "三角板",
+      "spreadsheetTerm": "三角尺",
+      "replacementTerm": "三角板",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 1,
+      "stageOrder": 1,
+      "originalTerm": "冰川",
+      "spreadsheetTerm": "冬天",
+      "replacementTerm": "冰川",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 1,
+      "stageOrder": 2,
+      "originalTerm": "熱帶雨林",
+      "spreadsheetTerm": "夏天",
+      "replacementTerm": "熱帶雨林",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 1,
+      "stageOrder": 3,
+      "originalTerm": "氣候變化",
+      "spreadsheetTerm": "天氣",
+      "replacementTerm": "氣候變化",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 1,
+      "stageOrder": 4,
+      "originalTerm": "生態系統",
+      "spreadsheetTerm": "季節",
+      "replacementTerm": "生態系統",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 1,
+      "stageOrder": 6,
+      "originalTerm": "山巒",
+      "spreadsheetTerm": "山火",
+      "replacementTerm": "山巒",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 2,
+      "stageOrder": 2,
+      "originalTerm": "濕地",
+      "spreadsheetTerm": "春天",
+      "replacementTerm": "濕地",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 2,
+      "stageOrder": 3,
+      "originalTerm": "針葉林",
+      "spreadsheetTerm": "森林",
+      "replacementTerm": "針葉林",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 2,
+      "stageOrder": 4,
+      "originalTerm": "喬木",
+      "spreadsheetTerm": "樹木",
+      "replacementTerm": "喬木",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 4,
+      "stageOrder": 3,
+      "originalTerm": "熱區",
+      "spreadsheetTerm": "熱帶",
+      "replacementTerm": "熱區",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 4,
+      "stageOrder": 4,
+      "originalTerm": "岩石",
+      "spreadsheetTerm": "石頭",
+      "replacementTerm": "岩石",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 4,
+      "stageOrder": 5,
+      "originalTerm": "凍土",
+      "spreadsheetTerm": "秋天",
+      "replacementTerm": "凍土",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 4,
+      "stageOrder": 6,
+      "originalTerm": "花卉",
+      "spreadsheetTerm": "花朵",
+      "replacementTerm": "花卉",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 5,
+      "stageOrder": 1,
+      "originalTerm": "草原",
+      "spreadsheetTerm": "草地",
+      "replacementTerm": "草原",
+      "audioSource": "generated"
+    },
+    {
+      "mapId": "M29",
+      "stage": 5,
+      "stageOrder": 2,
+      "originalTerm": "降水",
+      "spreadsheetTerm": "雨水",
+      "replacementTerm": "降水",
+      "audioSource": "generated"
+    }
+  ]
+}
