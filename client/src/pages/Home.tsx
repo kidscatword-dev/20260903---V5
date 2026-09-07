@@ -99,7 +99,15 @@ export default function Home() {
     try { return JSON.parse(localStorage.getItem(TOPIC_PROGRESS_STORAGE_KEY) ?? "{}") as Record<string, number>; } catch { return {}; }
   });
   const [billingInstallId] = useState(() => readOrCreateBillingInstallId());
-  const [familyUnlocked, setFamilyUnlocked] = useState(() => readLocalFamilyUnlock());
+  const [familyUnlocked, setFamilyUnlocked] = useState<boolean>(false);
+// 以 server 的 billingStatus 結果為準來更新是否解鎖
+useEffect(() => {
+  if (billingStatus.isSuccess) {
+    setFamilyUnlocked(Boolean(billingStatus.data?.hasFamilyUnlock));
+  } else {
+    setFamilyUnlocked(false);
+  }
+}, [billingStatus.isSuccess, billingStatus.data?.hasFamilyUnlock]);
   const [unlockSource, setUnlockSource] = useState<UnlockSource>("home");
   const [nativeBillingAvailable, setNativeBillingAvailable] = useState(() => isGooglePlayBillingAvailable());
   const [purchaseBusy, setPurchaseBusy] = useState(false);
